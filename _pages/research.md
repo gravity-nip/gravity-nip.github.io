@@ -18,7 +18,7 @@ Dead things are rarely fascinating. But black holes, the corpses of dead stars, 
 
 #### Gravitational waves
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 10px; padding-left: 50px"}
 
 With their recent discovery, the age of gravitational waves has come, giving us a entirely new window through which to study the Universe. Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. Thus, we also perform computations and studies of the self-force in unexplored physical settings. 
 
@@ -29,7 +29,7 @@ However, issues in general relativity tend show up on opposing extreme distance 
 
 #### Theoretical cosmology
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/orbits_marc2.jpg){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/orbits_marc2.jpg){: style="width: 300px; float: left; border: 10px; padding-right: 50px"}
 
 What is perhaps most remarkable about relativistic gravity theories is its scope. Apart from explaining how we keep our feet on the ground, it also provides the theoretical framework for understanding the origins of everything that exists. Our group studies cosmological models supported by alternative theories of gravity. We have found it fruitful to adopt dynamical systems methods in these endeavors. We try to answer questions like: What is the long-term evolution of the Universe? Can the accelerated expansion of the Universe be accommodated within a gravity theory without need for dark energy? For an alternative theory of gravity, does this requirement leave sufficient room for it to match the successes of GR on Solar System scales? 
 
