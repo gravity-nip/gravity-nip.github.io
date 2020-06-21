@@ -8,19 +8,19 @@ permalink: /research/
 
 # Research
 
-<b> Theoretical physics. Astrophysics. Geometry.</b> <br> The common thread connecting the three is our modern theory of gravity -- Einstein's general relativity.
+<b> Theoretical physics. Astrophysics. Geometry.</b> <br> The common thread connecting the three is our modern theory of gravity: Einstein's general relativity.
 
-Our group's broad goal is to explore and better understand all aspects of gravity, to gain insight and develop perspectives on its interesting features and its many peculiar effects, and to find and fill-in the gaps in our knowledge that continue to exist. To do so, we continue to sharpen the conceptual, mathematical, and numerical tools needed for our progress. Listed below are interconnected topics that endure as objects of our excitement and fascination. 
+Our group's broad goal is to explore and better understand all aspects of gravity, to gain insight and develop perspectives on its interesting features and its many peculiar effects, and to find and fill-in the gaps in our knowledge that continue to exist. This requires continued sharpening of a number of conceptual, mathematical, and numerical tools. Listed below are interconnected topics that endure as objects of our excitement and fascination. 
 
-#### Black holes and stars
+#### Black holes, stars, and spacetime exotica
 
-Dead things are rarely fascinating. But black holes, the corpses of dead stars, are where gravity becomes strongest in the Universe. We naturally gravitate to them. <i> (Pun intended.) </i> We are interested in questions such as: How do objects move in extremely strong gravitational environments? How do we characterize physical processes occurring around them? What new physical effects are made possible by the extreme gravity? What is the structue of black holes in alternative theories of gravity? How can black holes help us decide between general relativity and its competitors? We also study the stellar progenitors of black holes. What is their structure, particularly in alternative gravity theories? How do stars pulsate? How do they tidally disrupt when traveling in the vicinity of black holes? 
+Dead things are rarely fascinating. But black holes, the corpses of dead stars, are where gravity becomes strongest in the Universe. We naturally gravitate to them. <i> (Pun intended.) </i> We are interested in questions such as: How do objects move in extremely strong gravitational environments? How do we characterize physical processes occurring around them? What new physical effects are made possible by the extreme gravity? What is the structure of black holes in alternative theories of gravity? How can black holes help us decide between general relativity and its competitors? On the stellar progenitors of these black holes, we ask: What is their structure, particularly in alternative gravity theories? How do stars pulsate? How do they tidally disrupt when traveling in the vicinity of black holes? For fun, we also play with closely-related "exotic" spacetimes such as wormholes and warp-drives, and try to understand their physical properties.  
 
 #### Gravitational waves
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-With their recent discovery, the age of gravitational waves has come, giving us a entirely new window through which to study the Universe. Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. We also conduct computations and studies of the self-force in unexplored physical settings. 
+With their recent discovery, the age of gravitational waves has come, giving us a entirely new window through which to study the Universe. Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. Thus, we also perform computations and studies of the self-force in unexplored physical settings. 
 
 #### Alternative theories of gravity
 
