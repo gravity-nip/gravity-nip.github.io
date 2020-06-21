@@ -51,7 +51,7 @@ NIP Recognition Day 2019
 First group photo in our new lab. (April 2018).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gravity2018.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/gravity2018_new.jpg" width="60%" >
 </figure>
 
 Early lab shots. (April 2018).
