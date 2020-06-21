@@ -51,6 +51,9 @@ NIP Recognition Day 2019
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kyoto_u_small.jpg" width="60%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/yukawa_bust_small.jpg" width="60%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kain_kyoto_small.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/station_kyoto.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kyoto_bar.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kyoto_bahay.jpg" width="60%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tren_small.jpg" width="60%" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/lipad.jpeg" width="60%" >
 </figure>
