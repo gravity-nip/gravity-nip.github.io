@@ -1,0 +1,210 @@
+- title: "Bernstein spectral method for quasinormal modes and other eigenvalue problems"
+  image: 
+  description:
+  authors: S Fortuna, I Vega
+  link:
+    url: https://arxiv.org/abs/2003.06232
+    display:  arXiv:2003.06232
+  highlight: 0
+  news2:
+
+- title: "Stealth black holes in shift symmetric kinetic gravity braiding"
+  image: 
+  description: 
+  authors: R Bernardo, J Celestial, I Vega
+  link: 
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.024036
+    display:  Phys. Rev. D 101, 024036 (2020)
+  highlight: 0
+  news2:
+
+- title: "Tailoring cosmologies in cubic shift-symmetric Horndeski gravity"
+  image: reggie_fig.jpg
+  description: We develop an algorithm for associating any cosmic evolutionary history to a model scalar field in cubic shift-symmetric Horndeski gravity.
+  authors: R Bernardo, I Vega
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1475-7516/2019/10/058
+    display:  JCAP 10 (2019) 058
+  highlight: 1
+  news2:
+
+- title: "Weak gravitational lensing by two-power-law densities using the Gauss-Bonnet theorem"
+  image: karlo_lensing.jpg
+  description: We extend the Gauss-Bonnet method for computing gravitational lensing to canonical galatic mass distributions, and in this context, study the role played by topology in lensing.
+  authors: K de Leon, I Vega
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124007
+    display:  Phys. Rev. D 99, 124007 (2019)
+  highlight: 1
+  news2:
+
+
+- title: "Hair-dressing Horndeski: An approach for obtaining hairy solutions in cubic Horndeski gravity"
+  image: 
+  description: 
+  authors: R. Bernardo, I Vega
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124049
+    display:  Phys. Rev. D 99, 124049 (2019)
+  highlight: 0
+  news2:
+
+- title: "Self-force on a scalar charge in a circular orbit about a Reissner-Nordström black hole"
+  image: 
+  description: 
+  authors: J Castillo, I Vega, B Wardell
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.024024
+    display:  Phys. Rev. D 98, 024024 (2018)
+  highlight: 0
+  news2:
+
+- title: "Overcharging higher-dimensional black holes with point particles"
+  image: revelar_fig.jpg
+  description: We investigate the theoretical possibility of destroying black holes by throwing in point particles (ala Hubeny), and find that this gets easier in higher dimensions.
+  authors: K S Revelar, I Vega
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.064010
+    display:  Phys. Rev. D 96, 064010 (2017)
+  highlight: 1
+  news1: 
+  news2: 
+
+- title: "Slowly rotating black holes in Einstein-æther theory"
+  image: 
+  description: 
+  authors: E Barausse, T Sotiriou, I Vega
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.044044
+    display:  Phys. Rev. D 93, 044044 (2016)
+  highlight: 0
+  news2:
+
+- title: "Rotating black holes in three-dimensional Hořava gravity"
+  image: 
+  description: 
+  authors: T Sotiriou, I Vega, D Vernieri
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.044046
+    display: Phys. Rev. D 90, 044046 (2014)
+  highlight: 0
+  news2:
+
+- title: "Electromagnetic self-force on a static charge in Schwarzschild-de Sitter spacetimes"
+  image: 
+  description: 
+  authors: J Kuchar, E Poisson, I Vega
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0264-9381/30/23/235033/meta
+    display:  Class. Quantum Grav. 30 235033 (2013)
+  highlight: 0
+  news2: 
+
+- title: "Scalar self-force for eccentric orbits around a Schwarzschild black hole"
+  image: 
+  description: 
+  authors: I Vega, B Wardell, P Diener, S Cupp, and R Haas
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.084021
+    display:  Phys. Rev. D 88, 084021 (2013)
+  highlight: 0
+  news2:
+
+- title: "Self-force as a cosmic censor"
+  image: 
+  description:
+  authors: P Zimmerman, I Vega, E Poisson, and R Haas
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.041501
+    display: Phys. Rev. D 87, 041501(R) (2013)
+  highlight: 0
+
+- title: "Regularization of static self-forces"
+  image: 
+  description:
+  authors:
+    M Casals, E Poisson, and I Vega
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.064033
+    display: Phys. Rev. D 86, 064033 (2012)
+  highlight: 0
+
+- title: "Generic effective source for scalar self-force calculations"
+  image: 
+  description:
+  authors:
+    B Wardell, I Vega, J Thornburg, and P Diener
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.104044
+    display: Phys. Rev. D 85, 104044 (2012)
+  highlight: 0
+  news2: 
+
+- title: "Self-Consistent Orbital Evolution of a Particle around a Schwarzschild Black Hole"
+  image: prl_fig.jpg
+  description: We use numerical relativity codes to model the infall of a point scalar charge down to a non-rotating black hole, including self-force effects.
+  authors:
+    P Diener, I Vega, B Wardell, and S Detweiler
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.191102
+    display: Phys. Rev. Lett. 108, 191102 (2012)
+  highlight: 1
+  news1:
+  news2: 
+
+- title: "Intrinsic and extrinsic geometries of a tidally deformed black hole"
+  image: 
+  description: ""
+  authors:
+     I Vega, E Poisson, R Massey
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0264-9381/28/17/175006
+    display: Class. Quantum Grav. 28 175006 (2011)
+  highlight: 0
+  news1: 
+  news2:
+
+- title: "The motion of point particles in curved spacetime"
+  image: 
+  description:
+  authors:
+    E Poisson, A Pound, I Vega
+  link:
+    url: https://link.springer.com/article/10.12942%2Flrr-2011-7
+    display: Living Rev. Relativ. 14, 7 (2011)
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Effective source approach to self-force calculations"
+  image: 
+  description:
+  authors:
+    I Vega, B Wardell and P Diener
+  link:
+    url: https://iopscience.iop.org/article/10.1088/0264-9381/28/13/134010
+    display: Class. Quantum Grav. 28 134010 (2011)
+  highlight: 0
+  news: 
+
+- title: "Self-force with (3+1) codes: A primer for numerical relativists"
+  image: 
+  description:
+  authors:
+    I Vega, P Diener, W Tichy, and S Detweiler
+  highlight: 0
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.80.084021
+    display: Phys. Rev. D 80, 084021 (2009)
+  news2: 
+
+- title: "Regularization of fields for self-force problems in curved spacetime: Foundations and a time-domain application"
+  image: 
+  description:
+  authors:
+    I Vega and S Detweiler
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.084008
+    display: Phys. Rev. D 77, 084008 (2008)
+  highlight: 0
+  news2: 
