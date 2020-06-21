@@ -48,7 +48,7 @@ Our approach to science is strongly inspired by Chandra's lifelong _quest for pe
 
 > The pursuit of science has often been compared to the scaling of mountains, high and not so high. But who amongst us can hope, even in imagination, to scale the Everest and reach its summit when the sky is blue and the air is still, and in the stillness of the air survey the entire Himalayan range in the dazzling white of the snow stretching to infinity? None of us can hope for a comparable vision of nature and of the universe around us. <b> But there is nothing mean or lowly in standing in the valley below and awaiting the sun to rise over Kinchinjunga</b>. -- S. Chandrasekhar (1990), Truth and Beauty: Aesthetic and the Motivations of Science.
 
-Our efforts are always driven by curiosity and fun, and a desire to build our own coherent picture of the world. 
+Our efforts are always driven by curiosity and fun, and a desire to build our own coherent pictures of the world. 
 <br>
 <br>
 <br>
