@@ -39,13 +39,11 @@ NIP Recognition Day 2019
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/NIP_Gravity_Boys_2019.jpg" width="60%" >
 </figure>
 
-(May 2019) Post-defense celebration
+(May 2019) Post-defense celebration; Gravity and friends
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/post-defense_may_2019_small.jpg" width="60%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/yukawa_bust_small.jpg" width="60%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kain_kyoto_small.jpg" width="60%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tren_small.jpg" width="60%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/lipad.jpeg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/post-defense_may_2019_small2.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/post-defense_may_2019_small3.jpg" width="60%" >
 </figure>
 
 (Feb 2019) Yukawa Institute for Theoretical Physics, Kyoto University. 2019 Asia-Pacific Winter School and Workshop in Gravitation and Cosmology.
