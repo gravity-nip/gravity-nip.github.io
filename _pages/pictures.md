@@ -63,7 +63,7 @@ Early lab shots. (April 2018).
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/lab_action_shot3.jpg" width="60%" >
 </figure>
 
-First group photo in our new lab. (October 2017).
+The Gravity Group after one of our weekly Journal Club meetings. (October 2017).
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GravityGroupPhoto_2017_small.jpg" width="60%" >
