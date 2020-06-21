@@ -12,9 +12,9 @@ permalink: /research/
 
 Our group's broad goal is to explore and better understand all aspects of gravity, to gain insight and develop perspectives on its interesting features and its many peculiar effects, and to find and fill-in the gaps in our knowledge that continue to exist. This requires continued sharpening of a number of conceptual, mathematical, and numerical tools. Listed below are interconnected topics that endure as objects of our excitement and fascination. 
 
-#### Black holes, stars, and spacetime exotica
+![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 5px; padding-left: 20px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 10px; padding-left: 10px"}
+#### Black holes, stars, and spacetime exotica
 
 Dead things are rarely fascinating. But black holes, the corpses of dead stars, are where gravity becomes strongest in the Universe. We naturally gravitate to them. <i> (Pun intended.) </i> We are interested in questions such as: How do objects move in extremely strong gravitational environments? How do we characterize physical processes occurring around them? What new physical effects are made possible by the extreme gravity? What is the structure of black holes in alternative theories of gravity? How can black holes help us decide between general relativity and its competitors? On the stellar progenitors of these black holes, we ask: What is their structure, particularly in alternative gravity theories? How do stars pulsate? How do they tidally disrupt when traveling in the vicinity of black holes? For fun, we also play with closely-related "exotic" spacetimes such as wormholes and warp-drives, and try to understand their physical properties. Though these exotica exist mostly in science fiction, we perform calculations aimed at understanding what strange physical phenomena they might give rise to, and in the process gain an appreciation of the physics of strongly curved spacetime.  
 
@@ -24,9 +24,9 @@ With their recent discovery, the age of gravitational waves has come, giving us 
 
 #### Alternative theories of gravity
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/orbits_marc2.jpg){: style="width: 300px; float: left; border: 10px; padding-right: 50px"}
-
 Einstein's general relativity is <b> the best </b> theory of gravity we have at the moment, passing every empirical test thrown its way exceedingly well. However, issues in general relativity tend show up on opposing extreme distance scales: the very small, where quantum mechanics proves to be uncooperative, and the very large, where general relativity needs assistance from additional elements like dark matter and dark energy. As a result, a plethora of less successful alternative theories now vie to provide a more complete description of gravitational phenomena at all scales. Our group explores the rich phenomenology afforded by these non-Einsteinian gravity theories. We ask, for instance, what sort of physical predictions become possible when gravity carries more than just metric degrees of freedom, such as an extra scalar or vector. We are interested to know if (or which of) the competing proposals survive the battery of empirical evidence brought in by new observations. These investigations occasionally lead to insights about general relativity itself. We get to understand Einstein gravity better when we study what it is not. 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/orbits_marc2.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 20px"}
 
 #### Theoretical cosmology
 
@@ -42,10 +42,16 @@ Einstein's general relativity is expressed in the language of differential geome
 
 #### Our research philosophy
 
-Our approach to science is strongly inspired by Chandra's lifelong <i> quest for perspectives </i>, which we summarize with two quotes (emphases mine):
+Our approach to science is strongly inspired by Chandra's lifelong _quest for perspectives_, which we summarize with two quotes (emphases mine):
 
 > After the early preparatory years, my scientific work has followed a certain pattern motivated, principally, by <b> a quest after perspectives </b>. In practise, this quest has consisted in my choosing (after some trials and tribulations) a certain area which appears amenable to cultivation and compatible with my taste, abilities, and temperament. And when after some years of study, I feel that I have accumulated a sufficient body of knowledge and achieved a view of my own, I have the urge to present <b> my point of view </b>, ab initio, in a coherent account with order, form, and structure. -- S. Chandrasekhar (1983 Nobel Prize Autobiography)
 
 > The pursuit of science has often been compared to the scaling of mountains, high and not so high. But who amongst us can hope, even in imagination, to scale the Everest and reach its summit when the sky is blue and the air is still, and in the stillness of the air survey the entire Himalayan range in the dazzling white of the snow stretching to infinity? None of us can hope for a comparable vision of nature and of the universe around us. <b> But there is nothing mean or lowly in standing in the valley below and awaiting the sun to rise over Kinchinjunga</b>. -- S. Chandrasekhar (1990), Truth and Beauty: Aesthetic and the Motivations of Science.
 
 Our efforts are always driven by curiosity and fun, and a desire to build our own coherent picture of the world. 
+<br>
+<br>
+<br>
+
+##### _Top photo: Reissner-Nordstrom Penrose diagram (MC Perez, Ink Wash)_
+##### _Bottom photo: Three-body orbit (MC Perez, Acrylic)_ 
