@@ -66,7 +66,7 @@ Early lab shots. (April 2018).
 The Gravity Group after one of our weekly Journal Club meetings. (October 2017).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GravityGroupPhoto_2017_small.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/GravityGroupPhoto_2017_new.jpg" width="60%" >
 </figure>
 
 <!-- 
