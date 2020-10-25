@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-<b> Theoretical physics. Astrophysics. Geometry.</b> <br> The common thread connecting the three is our modern theory of gravity: Einstein's general relativity.
+<b> Theoretical physics. Astrophysics. Geometry.</b> <br> The common thread connecting these three themes is our modern theory of gravity: Einstein's general relativity.
 
 Our group's broad goal is to explore and better understand all aspects of gravity, to gain insight and develop perspectives on its interesting features and its many peculiar effects, and to find and fill-in the gaps in our knowledge that continue to exist. This requires continued sharpening of a number of conceptual, mathematical, and numerical tools. Listed below are interconnected topics that endure as objects of our excitement and fascination. 
 
@@ -38,17 +38,17 @@ Over Solar System scales, GR presents itself as a tiny correction at best. For t
 
 #### Applied differential geometry and mathematical methods
 
-Einstein's general relativity is expressed in the language of differential geometry. The huge investment we make in learning this intricate language gives us a natural affinity to seek out problems where our geometric methods can be usefully applied. We continue to explore problems in domains that aren't gravitational, but share common geometric descriptions. For instance, thermodynamics, gauge/geometric mechanics, and parts of data analysis that require some concept of distance, are all areas of active engagement. As gravitational interactions are naturally non-linear, we heavily borrow from fields of chaos and nonlinear dynamics, and utilize their methods for gravitationally interacting systems. We have applied these techniques to gain useful insights on the structure of the phase spaces of spinning bodies and charged particles in curved spacetime.  
+Einstein's general relativity is expressed in the language of differential geometry. Because of the huge investment we make towards learning this intricate language, we also have a natural affinity for problems where our geometric methods can be usefully applied. We continue to explore problems in domains that aren't gravitational, but share common geometric descriptions. For instance, thermodynamics, gauge/geometric mechanics, and parts of data analysis that require some concept of distance, are all areas in which we are actively engaged. As gravitational interactions are naturally non-linear, we heavily borrow from fields of chaos and nonlinear dynamics, and utilize their methods for gravitationally interacting systems. We have applied these techniques to gain useful insights on the structure of the phase spaces of spinning bodies and charged particles in curved spacetime.  
 
 #### Our research philosophy
 
-Our approach to science is strongly inspired by Chandra's lifelong _quest for perspectives_, which we summarize with two quotes (emphases mine):
+We are inspired by Chandra's lifelong _quest for perspectives_, which we summarize with two quotes (emphases mine):
 
 > After the early preparatory years, my scientific work has followed a certain pattern motivated, principally, by <b> a quest after perspectives </b>. In practise, this quest has consisted in my choosing (after some trials and tribulations) a certain area which appears amenable to cultivation and compatible with my taste, abilities, and temperament. And when after some years of study, I feel that I have accumulated a sufficient body of knowledge and achieved a view of my own, I have the urge to present <b> my point of view </b>, ab initio, in a coherent account with order, form, and structure. -- S. Chandrasekhar (1983 Nobel Prize Autobiography)
 
 > The pursuit of science has often been compared to the scaling of mountains, high and not so high. But who amongst us can hope, even in imagination, to scale the Everest and reach its summit when the sky is blue and the air is still, and in the stillness of the air survey the entire Himalayan range in the dazzling white of the snow stretching to infinity? None of us can hope for a comparable vision of nature and of the universe around us. <b> But there is nothing mean or lowly in standing in the valley below and awaiting the sun to rise over Kinchinjunga</b>. -- S. Chandrasekhar (1990), Truth and Beauty: Aesthetic and the Motivations of Science.
 
-Our efforts are always driven by curiosity and fun, and a desire to build our own coherent pictures of the world. 
+Though our efforts are always driven by curiosity and fun, our ultimate goal is to build our own coherent pictures of this wonderful Universe. 
 <br>
 <br>
 <br>
