@@ -20,7 +20,7 @@ Dead things are rarely fascinating. But black holes, the corpses of dead stars, 
 
 #### Gravitational waves
 
-With their recent detection, the age of gravitational waves has finally arrived. Gravitational waves open an exciting new window through which we can study the Universe. Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. Thus, we also perform computations and studies of the self-force in unexplored physical settings. 
+With their recent detection, the age of gravitational waves has finally arrived, thus opening an exciting new window through which we can study the Universe. Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. Thus, we also perform computations and studies of the self-force in unexplored physical settings. 
 
 #### Alternative theories of gravity
 
