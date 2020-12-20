@@ -1,6 +1,6 @@
 - name: "<a href='https://ianvega.wixsite.com/ianvega'> Ian Vega </a>"
   photo: ianvega_id.jpg
-  info: Professor, Principal Investigator
+  info: Professor
   email: ivega@nip (dot) upd (dot) edu (dot) ph
   number_educ: 4
   education1: Postdoc, SISSA, Trieste, Italy (2012-2015)
@@ -10,11 +10,12 @@
 
 - name: "<a href='https://reggiebernardo.weebly.com/'> Reggie Bernardo </a>"
   photo: reggie_id.jpg
-  info: PhD student, joined group in Jan 2018
+  info: Assistant Professor
   email: rbernardo@nip (dot) upd (dot) edu (dot) ph
-  number_educ: 2
-  education1: MS Physics, UP Diliman (2017)
-  education2: BS Physics, UP Diliman (2015)
+  number_educ: 3
+  education1: PhD Physics, UP Diliman (2020)
+  education2: MS Physics, UP Diliman (2017)
+  education3: BS Physics, UP Diliman (2015)
  
 - name: Adrian Villanueva
   photo: adrian_id.jpg
