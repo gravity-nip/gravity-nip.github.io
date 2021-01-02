@@ -1,7 +1,7 @@
 - name: Sam Alcoriza
   photo: alcoriza_id.jpg
-  duration: Member from 2017-2018; now in private sector
-  info: Former graduate student; MS Physics, UP Diliman (2018)
+  duration: MS Physics (2018)
+  info: now in private sector
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2018)
@@ -11,8 +11,8 @@
 
 - name: Noel Vargas
   photo: vargas_id.jpg
-  duration: Member from 2016-2018; now instructor in the Dept of Physics, Ateneo de Manila University
-  info: Former graduate student; MS Physics, UP Diliman (2018)
+  duration: MS Physics (2018)
+  info: now instructor in the Dept of Physics, Ateneo de Manila University
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2018)
@@ -22,8 +22,8 @@
 
 - name: Jezreel Castillo
   photo: jezreel_id.jpg
-  duration: Member from 2016-2017; went on to ICTP High Energy Program; now PhD Fellow in Physics, University of North Carolina Chapel Hill.
-  info: Former graduate student; MS Physics, UP Diliman (2017)
+  duration: MS Physics (2017) 
+  info: (1) ICTP High Energy Program 2018; (2) now PhD Fellow in Physics, University of North Carolina Chapel Hill, studying theoretical gravitational physics
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
@@ -33,8 +33,8 @@
 
 - name: Janforth Cantor 
   photo: cantor_id.jpg
-  duration: Member from 2016-2017; now in private sector
-  info: Former graduate student; MS Physics, UP Diliman (2017)
+  duration: MS Physics (2017) 
+  info: now in private sector
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
@@ -44,8 +44,8 @@
 
 - name: Karl Revelar
   photo: revelar_id.jpg
-  duration: Member from 2016-2018; now in private sector
-  info: Former graduate student; MS Physics, UP Diliman (2016)
+  duration: MS Physics (2016) 
+  info: now in private sector
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2016)
