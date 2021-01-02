@@ -19,7 +19,7 @@
  
 - name: Adrian Villanueva
   photo: adrian_id.jpg
-  info: PhD student, joined group as MS student in Jan 2016
+  info: PhD student
   email: javillanueva@nip (dot) upd.edu.ph
   number_educ: 2
   education1: MS Physics, UP Diliman (2017)
@@ -27,14 +27,14 @@
 
 - name: Sean Fortuna
   photo: sean_id.jpg
-  info: PhD student, joined group in August 2018
+  info: PhD student
   email: sjfortuna@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2017)
   
 - name: Jerome Mecca
   photo: jerome_id_new.jpg
-  info: PhD student, joined group as MS student in Jan 2018
+  info: PhD student
   email: jmecca@nip (dot) upd.edu.ph
   number_educ: 2
   education1: MS Physics, UP Diliman (2019)
@@ -42,15 +42,15 @@
   
 - name: John Carlo Elmaguin
   photo: johncarlo_id.jpg
-  info: PhD student, joined group as MS student in Jan 2018
-  email: jelmaguin@nip (dot) upd (dot) edu (dot) ph
+  info: PhD student
+  email: jelmaguin@nip (dot) upd.edu.ph
   number_educ: 2
   education1: MS Physics, UP Diliman (2019)
   education2: BS Physics, Polytechnic Univ of the Phils (2016)
 
 - name: Jhon Delo Procurato
   photo: procurato_id_new.jpg
-  info: PhD student, joined group in January 2019
+  info: PhD student
   email: jprocurato@nip (dot) upd.edu.ph
   number_educ: 2
   education1: MS Physics, UP Diliman (2020)
@@ -60,7 +60,7 @@
   
 - name: Joshua Bautista
   photo: joshua_id.jpg
-  info: MS student, joined group in January 2019
+  info: MS student
   email: jbpbautista1@gmail (dot) com
   number_educ: 1
   education1: BS Mechanical Engineering, UP Diliman (2017)
@@ -70,7 +70,7 @@
   
 - name: Marc Perez
   photo: perez_id.jpg
-  info: MS student, joined group as BS student in Jan 2017
+  info: MS student
   email: mperez@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
@@ -80,7 +80,7 @@
   
 - name: Gab Alkuino
   photo: alkuino_id.jpg
-  info: MS student, joined group as BS student in August 2017
+  info: MS student
   email: galkuino@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
@@ -90,7 +90,7 @@
   
 - name: Adrian Baybay
   photo: baybay_id.jpg
-  info: MS student, joined group as BS student in August 2017
+  info: MS student
   email: jbaybay@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
@@ -100,7 +100,7 @@
   
 - name: John Celestial
   photo: celestial_id.jpg
-  info: MS student, joined group as BS student in August 2017
+  info: MS student
   email: jcelestial@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
@@ -110,7 +110,7 @@
   
 - name: "<a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo de Leon </a>"
   photo: deleon_id.jpg
-  info: MS student, joined group as BS student in August 2017
+  info: MS student
   email: kndeleon@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
