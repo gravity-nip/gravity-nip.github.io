@@ -97,7 +97,7 @@
   education2:
   education3:
   education4:
-  
+
 - name: John Celestial
   photo: celestial_id.jpg
   info: MS student
@@ -107,7 +107,7 @@
   education2:
   education3:
   education4:
-  
+
 - name: "<a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo de Leon </a>"
   photo: deleon_id.jpg
   info: MS student
@@ -117,7 +117,7 @@
   education2:
   education3:
   education4:
-	  
+
 - name: Willard Alzate
   photo: alzate_id_small.jpg
   info: MS student
@@ -137,7 +137,7 @@
   education2:
   education3:
   education4: 
-	   
+
 - name: Lemuel Saret  
   photo: saret_id_small.jpg
   info: MS student
@@ -147,7 +147,7 @@
   education2:
   education3:
   education4: 
-
+  
 - name: Lizbeth Tan
   photo: tan_id_small_2.jpg
   info: MS student
