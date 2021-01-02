@@ -1,3 +1,14 @@
+- name: "<a href='https://www.markugalino.com/'> Mark Ugalino </a>"
+  photo: ugalino_id.jpg
+  duration: MS Physics (2020), BS Physics (2018) 
+  info: now studying computational astrophysics and high-performance computing as PhD student in Engineering and Applied Science at the University of Massachusetts Dartmouth
+  email: 
+  number_educ: 1
+  education1: MS Physics, UP Diliman (2017)
+  education2:
+  education3:
+  education4:
+
 - name: Sam Alcoriza
   photo: alcoriza_id.jpg
   duration: MS Physics (2018)
@@ -9,7 +20,7 @@
   education3:
   education4:
 
-- name: Noel Vargas
+- name: "<a href='https://www.linkedin.com/in/ndv3/?originalSubdomain=ph'> Noel Vargas </a>"
   photo: vargas_id.jpg
   duration: MS Physics (2018)
   info: now instructor in the Department of Physics, Ateneo de Manila University
@@ -23,7 +34,7 @@
 - name: "<a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a>"
   photo: jezreel_id.jpg
   duration: MS Physics (2017) 
-  info: (1) ICTP High Energy Program 2018; (2) now PhD Fellow in Physics, University of North Carolina Chapel Hill, studying theoretical gravitational physics
+  info: (1) ICTP High Energy Program 2018; (2) now studying theoretical gravitational physics as PhD Fellow in Physics, University of North Carolina Chapel Hill, studying theoretical gravitational physics
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
