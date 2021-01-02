@@ -20,7 +20,7 @@ permalink: /alumni/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.duration }} <br> <i> After Gravity: {{ member.info }}</i>
+  {{ member.duration }} <br> <i> -- {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
