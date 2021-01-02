@@ -1,4 +1,4 @@
-I"û3<h1 id="the-team">The Team</h1>
+I"><h1 id="the-team">The Team</h1>
 
 <div class="row">
 
@@ -494,6 +494,151 @@
     <p><img src="http://localhost:4000/images/teampic/mercado_id_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Joaquin Mercado</h4>
     <p><i>Joined group in January 2020<br />email: &lt;jmercado@nip (dot) upd (dot) edu (dot) ph&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Abigail Bait-it</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;acbaitit@up (dot) edu.ph&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Gedrich Dy</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;gedrichdy@gmail (dot) com&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Luke Gurrea</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;lkgurrea@gmail (dot) com&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>John Rommel (JR) Oidem</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;jvoidem@up (dot) edu.ph&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Cedric OÃ±a</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;ocedricadriane@gmail (dot) com&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Ronald Panganiban</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;ronald.panganiban.jr12@gmail (dot) com&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/yulo_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Miguel Yulo</h4>
+    <p><i>Joined group in January 2021<br />email: &lt;miguelyulo7@gmail (dot) com&gt;</i></p>
     <ul style="overflow: hidden">
 
   
