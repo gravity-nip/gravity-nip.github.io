@@ -132,7 +132,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
+<!--
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -165,6 +165,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+-->
 
 <!--
 ## Former visitors, BSc/ MSc students
