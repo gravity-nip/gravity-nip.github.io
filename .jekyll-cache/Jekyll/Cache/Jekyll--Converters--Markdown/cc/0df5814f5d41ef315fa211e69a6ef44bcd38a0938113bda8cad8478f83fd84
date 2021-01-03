@@ -1,54 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NIP Gravity Group - Research</title>
-  <meta name="description" content="NIP Gravity Group -- Research">
-  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/research/">
-<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="http://localhost:4000/"> Gravity @ NIP  </a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li><a href="http://localhost:4000/team">Team</a></li>
-		<li><a href="http://localhost:4000/alumni">Alumni</a></li>
-		<!--<li><a href="http://localhost:4000/vacancies">Vacancies</a></li>-->
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/pictures">(Pics)</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h1 id="research">Research</h1>
+I"�#<h1 id="research">Research</h1>
 
 <p><b> Theoretical physics. Astrophysics. Geometry.</b> <br /> The common thread connecting these three themes is our modern theory of gravity: Einstein’s general relativity.</p>
 
@@ -62,7 +12,7 @@
 
 <h4 id="gravitational-waves">Gravitational waves</h4>
 
-<p>The age of gravitational waves is here. An exciting new observational window for seeing the Universe is now open —- and what a view it is! Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. Thus, we also perform computations and studies of the self-force in unexplored physical settings.</p>
+<p>With their recent detection, the age of gravitational waves is here, and a new exciting new window through which we can study the Universe has been opened. Our group is interested in the modeling of sources of these gravitational waves. In particular, we wish to understand how environmental factors affect the gravitational waves produced by, say, black holes orbiting each other. One enduring system of interest is the so-called extreme-mass-ratio inspirals (EMRIs) for future space-based gravitational wave antennas such as LISA. A key aspect to their modeling is the incorporation of radiation-reaction or self-force effects. Thus, we also perform computations and studies of the self-force in unexplored physical settings.</p>
 
 <h4 id="alternative-theories-of-gravity">Alternative theories of gravity</h4>
 
@@ -101,48 +51,4 @@
 
 <h5 id="top-photo-reissner-nordstrom-penrose-diagram-mc-perez-ink-wash"><em>Top photo: Reissner-Nordstrom Penrose diagram (MC Perez, Ink Wash)</em></h5>
 <h5 id="bottom-photo-three-body-orbit-mc-perez-acrylic"><em>Bottom photo: Three-body orbit (MC Perez, Acrylic)</em></h5>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p> Site made with <a href="https://jekyllrb.com">Jekyll</a>, following a template made available by the <a href="http://localhost:4000/aboutwebsite.html">Allan Lab</a>.</p>
-              <p>We are part of the <a href="http://nip.upd.edu.ph/">National Institute of Physics</a> at the <a href="https://upd.edu.ph/">University of the Philippines Diliman</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - Balik-PhD Grant from OVPAA, UP System <br />
-		  - Outright Research Grant, OVCRD, UP Diliman
-          - NAST-OYS Grant, NAST DOST
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  NIP Building, UP Diliman<br />
-		  Diliman, Quezon City<br />
-		  Philippines <br />
-            (<a href="https://www.google.com/maps/place/UP+National+Institute+Of+Physics/@14.6487957,121.0729283,19z/data=!4m19!1m13!4m12!1m3!2m2!1d121.0730678!2d14.6488009!1m6!1m2!1s0x3397b77b52dcab39:0x8aba1dba9a49dea2!2sUP+National+Institute+Of+Physics,+UP+National+Institute+Of+Physics,+C.P.+Garcia+Avenue,+Quezon+City,+1101+Metro+Manila!2m2!1d121.073057!2d14.648832!3e0!3m4!1s0x3397b77b52dcab39:0x8aba1dba9a49dea2!8m2!3d14.648832!4d121.073057">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
