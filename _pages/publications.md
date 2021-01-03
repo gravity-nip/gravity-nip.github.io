@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Representative papers
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z1yv2VMAAAAJ&view_op=list_works&sortby=pubdate))
+(For a full list see [below](#full-list))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
