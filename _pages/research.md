@@ -8,11 +8,12 @@ permalink: /research/
 
 # Research
 
-<b> Theoretical physics. Astrophysics. Geometry.</b> <br> The common thread connecting these three themes is our modern theory of gravity: Einstein's general relativity.
-
-Our group's broad goal is to explore and better understand all aspects of gravity, to gain insight and develop perspectives on its interesting features and its many peculiar effects, and to find and fill-in the gaps in our knowledge that continue to exist. This requires continued sharpening of a number of conceptual, mathematical, and numerical tools. Listed below are interconnected topics that endure as objects of our excitement and fascination. 
-
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 5px; padding-left: 20px"}
+
+
+<b> Theoretical physics. Astrophysics. Geometry.</b> <br> These three research themes are bound together by our modern theory of gravity: Einstein's general relativity.
+
+Our group's broad goal is to explore and better understand <b> gravity </b> in all its facets. We hope to gain insight and to develop fresh perspectives on its interesting features and its many peculiar effects, and to address gaps in our knowledge that continue to exist. Our goals demand that we continue to sharpen our conceptual, mathematical, and numerical tools. The interconnected topics below endure as objects of our excitement and fascination. 
 
 #### Black holes, stars, and spacetime exotica
 
