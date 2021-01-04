@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a subgroup of the Theoretical Physics Group of the [National Institute of Physics](http://www.nip.upd.edu.ph), [University of the Philippines, Diliman](http://www.upd.edu.ph). Founded in 2016, our over-arching goal has been to better understand gravity in all its facets, from Solar System scales to the vast distances of the cosmos. We puzzle over fascinating questions in relativistic astrophysics, black hole physics, celestial dynamics, theoretical cosmology, and gravitational wave science, and try to gain insight using a variety of analytical and numerical tools.
+We are a subgroup of the Theoretical Physics Group of the [National Institute of Physics](http://www.nip.upd.edu.ph), [University of the Philippines, Diliman](http://www.upd.edu.ph). Founded in 2016, our over-arching goal has been to better understand gravity in all its facets, from Solar System scales to the vast distances of the cosmos. We puzzle over fascinating questions in relativistic astrophysics, black hole physics, celestial dynamics, theoretical cosmology, and gravitational wave science, and try to gain insight using a variety of analytical and numerical tools. Through these efforts, we hope to slowly build a sturdy home for gravity and astrophysics research in this beautiful part of the world. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
