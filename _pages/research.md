@@ -43,7 +43,7 @@ Differential geometry is the grammar of modern gravity. In learning this intrica
 
 #### Our research philosophy
 
-Chandra's lifelong _quest for perspectives_ is the core inspiration of our intellectual adventures. We summarize this with two quotes (emphases mine):
+Chandra's lifelong _quest for perspectives_ is the core inspiration of our intellectual adventures. We summarize this with two quotes (emphases ours):
 
 > After the early preparatory years, my scientific work has followed a certain pattern motivated, principally, by <b> a quest after perspectives</b>. In practise, this quest has consisted in my choosing (after some trials and tribulations) a certain area which appears amenable to cultivation and compatible with my taste, abilities, and temperament. And when after some years of study, I feel that I have accumulated a sufficient body of knowledge and achieved a view of my own, I have the urge to present <b> my point of view</b>, ab initio, in a coherent account with order, form, and structure. -- S. Chandrasekhar (1983 Nobel Prize Autobiography)
 
