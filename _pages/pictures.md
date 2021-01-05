@@ -16,7 +16,7 @@ permalink: /pictures/
 (Right-click *'view image'* to see a larger image.)
 
 Celebrating the year of Zoom. (May there be no more.) <br>
-Mark's remote US send-off and Clark's BS thesis mock defense. (4 January 2021)
+Mark's remote US send-off and Clark's mock BS thesis defense. (4 January 2021)
 
 
 <figure>
