@@ -9,16 +9,6 @@
   education3:
   education4:
 
-- name: "<a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a>"
-  photo: jezreel_id.jpg
-  duration: MS Physics (2017) 
-  info: "University of North Carolina Chapel Hill, PhD fellow in Physics (gravitational waves and theoretical astrophysics); previously in the Abdus Salam ICTP High Energy Diploma Programme (2018)"
-  number_educ: 1
-  education1: MS Physics, UP Diliman (2017)
-  education2:
-  education3:
-  education4:	  
-
 - name: "<a href='https://www.linkedin.com/in/ndv3/?originalSubdomain=ph'> Noel Vargas </a>"
   photo: vargas_id.jpg
   duration: MS Physics (2018)
@@ -26,17 +16,6 @@
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2018)
-  education2:
-  education3:
-  education4:
-
-- name: "<a href='https://www.linkedin.com/in/karl-simon-revelar-1b268b170/'> Karl Simon Revelar </a>"
-  photo: revelar_id.jpg
-  duration: MS Physics (2016) 
-  info: intellectual property and technology specialist, Fortun Narvasa & Salazar - Pinoy IP Works Inc
-  email: 
-  number_educ: 1
-  education1: MS Physics, UP Diliman (2016)
   education2:
   education3:
   education4:
@@ -52,6 +31,16 @@
   education3:
   education4:
 
+- name: "<a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a>"
+  photo: jezreel_id.jpg
+  duration: MS Physics (2017) 
+  info: "University of North Carolina Chapel Hill, PhD fellow in Physics (gravitational waves and theoretical astrophysics); previously in the Abdus Salam ICTP High Energy Diploma Programme (2018)"
+  number_educ: 1
+  education1: MS Physics, UP Diliman (2017)
+  education2:
+  education3:
+  education4:
+
 - name: Janforth Cantor 
   photo: cantor_id.jpg
   duration: MS Physics (2017) 
@@ -59,6 +48,17 @@
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
+  education2:
+  education3:
+  education4:
+
+- name: "<a href='https://www.linkedin.com/in/karl-simon-revelar-1b268b170/'> Karl Simon Revelar </a>"
+  photo: revelar_id.jpg
+  duration: MS Physics (2016) 
+  info: intellectual property and technology specialist, Fortun Narvasa & Salazar - Pinoy IP Works Inc
+  email: 
+  number_educ: 1
+  education1: MS Physics, UP Diliman (2016)
   education2:
   education3:
   education4:
