@@ -1,7 +1,7 @@
 - name: "<a href='https://www.markugalino.com/'> Mark Ugalino </a>"
   photo: ugalino_id.jpg
   duration: MS Physics (2020), BS Physics (2018) 
-  info: "now at the University of Massachusetts Dartmouth, PhD student in Engineering and Applied Science  (computational astrophysics and scientific computing)"
+  info: "University of Massachusetts Dartmouth, PhD student in Engineering and Applied Science  (computational astrophysics and scientific computing)"
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
@@ -12,7 +12,7 @@
 - name: Sam Alcoriza
   photo: alcoriza_id.jpg
   duration: MS Physics (2018)
-  info: now in private sector
+  info: private sector
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2018)
@@ -23,7 +23,7 @@
 - name: "<a href='https://www.linkedin.com/in/ndv3/?originalSubdomain=ph'> Noel Vargas </a>"
   photo: vargas_id.jpg
   duration: MS Physics (2018)
-  info: now instructor in the Department of Physics, Ateneo de Manila University
+  info: Instructor in the Department of Physics, Ateneo de Manila University
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2018)
@@ -34,7 +34,7 @@
 - name: "<a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a>"
   photo: jezreel_id.jpg
   duration: MS Physics (2017) 
-  info: "now at University of North Carolina Chapel Hill, PhD fellow in Physics (gravitational waves and theoretical astrophysics); previously in the Abdus Salam ICTP High Energy Diploma Programme (2018)"
+  info: "University of North Carolina Chapel Hill, PhD fellow in Physics (gravitational waves and theoretical astrophysics); previously in the Abdus Salam ICTP High Energy Diploma Programme (2018)"
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
   education2:
@@ -44,7 +44,7 @@
 - name: Janforth Cantor 
   photo: cantor_id.jpg
   duration: MS Physics (2017) 
-  info: now in private sector
+  info: private sector
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2017)
@@ -55,7 +55,7 @@
 - name: "<a href='https://www.linkedin.com/in/karl-simon-revelar-1b268b170/'> Karl Simon Revelar </a>"
   photo: revelar_id.jpg
   duration: MS Physics (2016) 
-  info: now an intellectual property and technology specialist, Fortun Narvasa & Salazar - Pinoy IP Works Inc
+  info: intellectual property and technology specialist, Fortun Narvasa & Salazar - Pinoy IP Works Inc
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2016)
