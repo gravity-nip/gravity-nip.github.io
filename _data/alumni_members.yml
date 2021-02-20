@@ -8,6 +8,16 @@
   education2:
   education3:
   education4:
+	  
+- name: "<a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a>"
+  photo: jezreel_id.jpg
+  duration: MS Physics (2017) 
+  info: "University of North Carolina Chapel Hill, PhD fellow in Physics (gravitational waves and theoretical astrophysics); previously in the Abdus Salam ICTP High Energy Diploma Programme (2018)"
+  number_educ: 1
+  education1: MS Physics, UP Diliman (2017)
+  education2:
+  education3:
+  education4:	  
 
 - name: Sam Alcoriza
   photo: alcoriza_id.jpg
