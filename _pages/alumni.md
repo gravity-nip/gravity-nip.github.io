@@ -28,7 +28,7 @@ We are proud of our alumni who have brought their skills to different sectors of
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.duration }} <br>  -- {{ member.info }}
+  {{ member.duration }} <br>  After Gravity: {{ member.info }}
   <ul style="overflow: hidden">
 
   </ul>
