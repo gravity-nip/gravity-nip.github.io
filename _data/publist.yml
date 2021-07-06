@@ -54,7 +54,7 @@
   authors: R Bernardo, I Vega
   link:
     url: https://iopscience.iop.org/article/10.1088/1475-7516/2019/10/058
-    display:  JCAP 10 (2019) 058
+    display:  Journal of Cosmology and Astroparticle Physics 10 (2019) 058
   highlight: 1
   news2:
 
@@ -64,7 +64,7 @@
   authors: K de Leon, I Vega
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124007
-    display:  Phys. Rev. D 99, 124007 (2019)
+    display:  Physical Review D 99, 124007 (2019)
   highlight: 1
   news2:
 
@@ -75,7 +75,7 @@
   authors: R Bernardo, I Vega
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124049
-    display:  Phys. Rev. D 99, 124049 (2019)
+    display:  Physical Review D 99, 124049 (2019)
   highlight: 0
   news2:
 
@@ -85,7 +85,7 @@
   authors: J Castillo, I Vega, B Wardell
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.024024
-    display:  Phys. Rev. D 98, 024024 (2018)
+    display:  Physical Review D 98, 024024 (2018)
   highlight: 0
   news2:
 
@@ -95,7 +95,7 @@
   authors: K S Revelar, I Vega
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.064010
-    display:  Phys. Rev. D 96, 064010 (2017)
+    display:  Physical Review D 96, 064010 (2017)
   highlight: 1
   news1: 
   news2: 
@@ -106,7 +106,7 @@
   authors: E Barausse, T Sotiriou, I Vega
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.044044
-    display:  Phys. Rev. D 93, 044044 (2016)
+    display:  Physical Review D 93, 044044 (2016)
   highlight: 0
   news2:
 
@@ -116,7 +116,7 @@
   authors: T Sotiriou, I Vega, D Vernieri
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.044046
-    display: Phys. Rev. D 90, 044046 (2014)
+    display: Physical Review D 90, 044046 (2014)
   highlight: 0
   news2:
 
@@ -126,7 +126,7 @@
   authors: J Kuchar, E Poisson, I Vega
   link:
     url: https://iopscience.iop.org/article/10.1088/0264-9381/30/23/235033/meta
-    display:  Class. Quantum Grav. 30 235033 (2013)
+    display:  Classical and Quantum Gravity 30 235033 (2013)
   highlight: 0
   news2: 
 
@@ -136,7 +136,7 @@
   authors: I Vega, B Wardell, P Diener, S Cupp, and R Haas
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.084021
-    display:  Phys. Rev. D 88, 084021 (2013)
+    display:  Physical Review D 88, 084021 (2013)
   highlight: 0
   news2:
 
@@ -146,7 +146,7 @@
   authors: P Zimmerman, I Vega, E Poisson, and R Haas
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.041501
-    display: Phys. Rev. D 87, 041501(R) (2013)
+    display: Physical Review D 87, 041501(R) (2013)
   highlight: 0
 
 - title: "Regularization of static self-forces"
@@ -156,7 +156,7 @@
     M Casals, E Poisson, and I Vega
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.064033
-    display: Phys. Rev. D 86, 064033 (2012)
+    display: Physical Review D 86, 064033 (2012)
   highlight: 0
 
 - title: "Generic effective source for scalar self-force calculations"
@@ -166,7 +166,7 @@
     B Wardell, I Vega, J Thornburg, and P Diener
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.85.104044
-    display: Phys. Rev. D 85, 104044 (2012)
+    display: Physical Review D 85, 104044 (2012)
   highlight: 0
   news2: 
 
@@ -177,7 +177,7 @@
     P Diener, I Vega, B Wardell, and S Detweiler
   link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.191102
-    display: Phys. Rev. Lett. 108, 191102 (2012)
+    display: Physical Review Letters 108, 191102 (2012)
   highlight: 1
   news1:
   news2: 
@@ -189,7 +189,7 @@
      I Vega, E Poisson, R Massey
   link:
     url: https://iopscience.iop.org/article/10.1088/0264-9381/28/17/175006
-    display: Class. Quantum Grav. 28 175006 (2011)
+    display: Classical and Quantum Gravity 28 175006 (2011)
   highlight: 0
   news1: 
   news2:
@@ -201,7 +201,7 @@
     E Poisson, A Pound, I Vega
   link:
     url: https://link.springer.com/article/10.12942%2Flrr-2011-7
-    display: Living Rev. Relativ. 14, 7 (2011)
+    display: Living Reviews in Relativity 14, 7 (2011)
   highlight: 0
   news1: 
   news2: 
@@ -213,7 +213,7 @@
     I Vega, B Wardell and P Diener
   link:
     url: https://iopscience.iop.org/article/10.1088/0264-9381/28/13/134010
-    display: Class. Quantum Grav. 28 134010 (2011)
+    display: Classical and Quantum Gravity 28 134010 (2011)
   highlight: 0
   news: 
 
@@ -225,7 +225,7 @@
   highlight: 0
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.80.084021
-    display: Phys. Rev. D 80, 084021 (2009)
+    display: Physical Review D 80, 084021 (2009)
   news2: 
 
 - title: "Regularization of fields for self-force problems in curved spacetime: Foundations and a time-domain application"
@@ -235,6 +235,6 @@
     I Vega and S Detweiler
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.084008
-    display: Phys. Rev. D 77, 084008 (2008)
+    display: Physical Review D 77, 084008 (2008)
   highlight: 0
   news2: 
