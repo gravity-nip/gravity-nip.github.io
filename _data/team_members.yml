@@ -58,16 +58,6 @@
   education3:
   education4:
   
-- name: Joshua Bautista
-  photo: joshua_id.jpg
-  info: MS student
-  email: jbpbautista1@gmail (dot) com
-  number_educ: 1
-  education1: BS Mechanical Engineering, UP Diliman (2017)
-  education2:
-  education3:
-  education4:
-  
 - name: Marc Perez
   photo: perez_id.jpg
   info: MS student
@@ -77,17 +67,7 @@
   education2:
   education3:
   education4:
-  
-- name: Gab Alkuino
-  photo: alkuino_id.jpg
-  info: MS student
-  email: galkuino@nip (dot) upd.edu.ph
-  number_educ: 1
-  education1: BS Physics, UP Diliman (2019)
-  education2:
-  education3:
-  education4:
-  
+
 - name: Adrian Baybay
   photo: baybay_id.jpg
   info: MS student
@@ -102,16 +82,6 @@
   photo: celestial_id.jpg
   info: MS student
   email: jcelestial@nip (dot) upd.edu.ph
-  number_educ: 1
-  education1: BS Physics, UP Diliman (2019)
-  education2:
-  education3:
-  education4:
-
-- name: "<a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo de Leon </a>"
-  photo: deleon_id.jpg
-  info: MS student
-  email: kndeleon@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
   education2:
@@ -147,16 +117,6 @@
   education2:
   education3:
   education4: 
-  
-- name: Lizbeth Tan
-  photo: tan_id_small_2.jpg
-  info: MS student
-  email: ljtan@nip (dot) upd.edu.ph
-  number_educ: 1
-  education1: BS Physics, UP Diliman (2020)
-  education2:
-  education3:
-  education4:
 
 - name: Val Balagon
   photo: balagon_id.jpeg
