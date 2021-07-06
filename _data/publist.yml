@@ -1,10 +1,10 @@
-- title: "Self-tuning kinetic gravity braiding: Cosmological dynamics, shift symmetry, and the tadpole"
+- title: "Bernstein spectral method for quasinormal modes and other eigenvalue problems"
   image: 
   description:
-  authors: R Bernardo
+  authors: S Fortuna, I Vega
   link:
-    url: https://arxiv.org/abs/2101.00965
-    display: arXiv:2101.00965
+    url: https://arxiv.org/abs/2003.06232
+    display:  arXiv:2003.06232
   highlight: 0
   news2:
 
@@ -13,8 +13,8 @@
   description:
   authors: J Bautista, I Vega
   link:
-    url: https://arxiv.org/abs/2011.13402
-    display: arXiv:2011.13402
+    url: https://iopscience.iop.org/article/10.1088/1361-6382/ac0e19
+    display: Classical and Quantum Gravity (2021)
   highlight: 0
   news2:
 
@@ -23,18 +23,18 @@
   description:
   authors: R Bernardo, I Vega
   link:
-    url: https://arxiv.org/abs/2007.06006
-    display: arXiv:2007.06006
+    url: https://aip.scitation.org/doi/10.1063/5.0048929
+    display: Journal of Mathematical Physics 62, 072501 (2021)
   highlight: 0
   news2:
 
-- title: "Bernstein spectral method for quasinormal modes and other eigenvalue problems"
+- title: "Self-tuning kinetic gravity braiding: Cosmological dynamics, shift symmetry, and the tadpole"
   image: 
   description:
-  authors: S Fortuna, I Vega
+  authors: R Bernardo
   link:
-    url: https://arxiv.org/abs/2003.06232
-    display:  arXiv:2003.06232
+    url: https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/079
+    display:  JCAP 03 (2021) 079
   highlight: 0
   news2:
 
