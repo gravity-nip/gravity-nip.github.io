@@ -1,7 +1,18 @@
+- name: "<a href='https://www.joshuabautista.com/'> Joshua Bautista </a>"
+  photo: joshua_id.jpg
+  duration: MS Physics (2021), BS Physics (2019) 
+  info: "University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)"
+  email: 
+  number_educ: 2
+  education1: MS Physics, UP Diliman (2021)
+  education2: BS Mech Eng, UP Diliman (2017)
+  education3:
+  education4:
+
 - name: "<a href='https://gsalkuino.github.io/'> Gabriel Alkuino </a>"
   photo: alkuino_id.jpg
   duration: MS Physics (2021), BS Physics (2019) 
-  info: "Syracuse University, Harry Levinstein PhD Fellow in physics (soft matter physics)"
+  info: "Syracuse University, Harry Levinstein PhD fellow in physics (soft matter physics)"
   email: 
   number_educ: 2
   education1: MS Physics, UP Diliman (2021)
