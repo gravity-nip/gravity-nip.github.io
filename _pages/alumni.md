@@ -8,7 +8,7 @@ permalink: /alumni/
 
 # Gravity Alumni 
 
-We are proud of our alumni who have brought their skills to different sectors of society in different parts of the world. 
+We are proud of our alumni who have brought their skills to different sectors of society in different parts of the world. Please check out our [<i>Student Training</i>](https://gravity-nip.github.io/training/) page for the regular activities we conduct to ensure continued skills development.
 
 
 
