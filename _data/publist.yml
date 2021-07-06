@@ -1,3 +1,33 @@
+- title: "Towards a model-independent reconstruction approach for late-time Hubble data"
+  image: 
+  description:
+  authors: R Bernardo, JL Said
+  link:
+    url: https://arxiv.org/abs/2106.08688
+    display:  arXiv:2106.08688
+  highlight: 0
+  news2:
+
+- title: "A data-driven reconstruction of Horndeski gravity via the Gaussian processes"
+  image: 
+  description:
+  authors: R Bernardo, JL Said
+  link:
+    url: https://arxiv.org/abs/2105.12970
+    display:  arXiv:2105.12970
+  highlight: 0
+  news2:
+
+- title: "Gravitational wave signatures from dark sector interactions"
+  image: 
+  description:
+  authors: R Bernardo
+  link:
+    url: https://arxiv.org/abs/2103.02311
+    display:  arXiv:2103.02311
+  highlight: 0
+  news2:
+
 - title: "Bernstein spectral method for quasinormal modes and other eigenvalue problems"
   image: 
   description:
