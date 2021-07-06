@@ -1,4 +1,4 @@
-I"¾?<h1 id="the-team">The Team</h1>
+I"PF<h1 id="the-team">The Team</h1>
 
 <div class="row">
 
@@ -428,25 +428,6 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/urzo_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Clark Urzo</h4>
-    <p><i>Joined group in January 2017<br />email: &lt;curzo@nip (dot) upd.edu.ph&gt;</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/alhambra_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Melissa Alhambra</h4>
     <p><i>Joined group in August 2019<br />email: &lt;galhambra@nip (dot) upd.edu.ph&gt;</i></p>
@@ -464,10 +445,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/cj_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -488,6 +465,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/salazar_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jaythan Salazar</h4>
@@ -506,10 +487,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/mercado_id_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -530,6 +507,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Abigail Bait-it</h4>
@@ -548,10 +529,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/dy_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -572,6 +549,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/gurrea_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Luke Gurrea</h4>
@@ -590,10 +571,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -614,6 +591,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/ona_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Cedric OÃ±a</h4>
@@ -633,10 +614,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/panganiban_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Ronald Panganiban</h4>
@@ -655,6 +632,10 @@
 
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/yulo_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -690,9 +671,9 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/ugalino_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href='https://www.markugalino.com/'> Mark Ugalino </a></h4>
-  MS Physics (2020), BS Physics (2018) <br> <i> After Gravity: now PhD student in Engineering and Applied Science at the University of Massachusetts Dartmouth (research concentration: computational astrophysics and scientific computing)</i>
+  <img src="http://localhost:4000/images/teampic/deleon_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo De Leon </a></h4>
+  MS Physics (2021), BS Physics (2019) <br> <i> After Gravity: New York University, MacCracken PhD fellow in Physics (soft matter physics)</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -709,9 +690,93 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/alcoriza_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>Sam Alcoriza</h4>
-  MS Physics (2018) <br> <i> After Gravity: now in private sector</i>
+  <img src="http://localhost:4000/images/teampic/tan_id_small_2.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://lizbethjoytan.wixsite.com/lizbethtan/'> Lizbeth Tan </a></h4>
+  BS Physics (2020) <br> <i> After Gravity: University of Maryland Baltimore County, PhD student in Physics (high energy astrophysics)</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/joshua_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://www.joshuabautista.com/'> Joshua Bautista </a></h4>
+  MS Physics (2021), BS Physics (2019) <br> <i> After Gravity: University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/alkuino_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://gsalkuino.github.io/'> Gabriel Alkuino </a></h4>
+  MS Physics (2021), BS Physics (2019) <br> <i> After Gravity: Syracuse University, Harry Levinstein PhD fellow in Physics (soft matter physics)</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/urzo_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Clark Urzo</h4>
+  BS Physics (2020) <br> <i> After Gravity: private sector</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/ugalino_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://www.markugalino.com/'> Mark Ugalino </a></h4>
+  MS Physics (2020), BS Physics (2018) <br> <i> After Gravity: University of Massachusetts Dartmouth, PhD student in Engineering and Applied Science  (computational astrophysics and scientific computing)</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -734,7 +799,7 @@
 <div class="col-sm-6 clearfix">
   <img src="http://localhost:4000/images/teampic/vargas_id.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4><a href='https://www.linkedin.com/in/ndv3/?originalSubdomain=ph'> Noel Vargas </a></h4>
-  MS Physics (2018) <br> <i> After Gravity: now instructor in the Department of Physics, Ateneo de Manila University</i>
+  MS Physics (2018) <br> <i> After Gravity: Instructor in the Department of Physics, Ateneo de Manila University</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -751,9 +816,9 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/jezreel_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a></h4>
-  MS Physics (2017) <br> <i> After Gravity: now PhD fellow in Physics, University of North Carolina Chapel Hill (research concentration: gravitational waves and theoretical astrophysics); previously a student in the Abdus Salam ICTP High Energy Diploma Programme (2018)</i>
+  <img src="http://localhost:4000/images/teampic/alcoriza_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Sam Alcoriza</h4>
+  MS Physics (2018) <br> <i> After Gravity: private sector</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -774,9 +839,9 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/cantor_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>Janforth Cantor</h4>
-  MS Physics (2017) <br> <i> After Gravity: now in private sector</i>
+  <img src="http://localhost:4000/images/teampic/jezreel_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://www.researchgate.net/profile/Jezreel-Castillo'> Jezreel Castillo </a></h4>
+  MS Physics (2017) <br> <i> After Gravity: University of North Carolina Chapel Hill, PhD fellow in Physics (gravitational waves and theoretical astrophysics); previously in the Abdus Salam ICTP High Energy Diploma Programme (2018)</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -793,9 +858,9 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/revelar_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href='https://www.linkedin.com/in/karl-simon-revelar-1b268b170/'> Karl Simon Revelar </a></h4>
-  MS Physics (2016) <br> <i> After Gravity: now an intellectual property and technology specialist, Fortun Narvasa & Salazar - Pinoy IP Works Inc</i>
+  <img src="http://localhost:4000/images/teampic/cantor_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Janforth Cantor</h4>
+  MS Physics (2017) <br> <i> After Gravity: private sector</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -810,6 +875,29 @@
 
 
 
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/revelar_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://www.linkedin.com/in/karl-simon-revelar-1b268b170/'> Karl Simon Revelar </a></h4>
+  MS Physics (2016) <br> <i> After Gravity: intellectual property and technology specialist, Fortun Narvasa & Salazar - Pinoy IP Works Inc</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
 
 -->
 
