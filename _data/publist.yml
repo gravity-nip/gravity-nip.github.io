@@ -39,23 +39,23 @@
   news2:
 
 - title: "Chaotic exits from a weakly magnetized Schwarzschild black hole"
-  image: 
-  description:
+  image: joshua_basin.jpg
+  description: We discover the Wada property and study the basin entropy of the nonlinear dynamics of charged particle motion in magnetized black holes.
   authors: J Bautista, I Vega
   link:
     url: https://iopscience.iop.org/article/10.1088/1361-6382/ac0e19
     display: Classical and Quantum Gravity (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Stealth black hole perturbations in kinetic gravity braiding"
-  image: 
-  description:
+  image: reggie_perts2.png
+  description: We study perturbations of stealth black holes in KGB, develop its Regge-Wheeler and Zerilli master equations, and derive exact solutions for its low multipoles.
   authors: R Bernardo, I Vega
   link:
     url: https://aip.scitation.org/doi/10.1063/5.0048929
     display: Journal of Mathematical Physics 62, 072501 (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Self-tuning kinetic gravity braiding: Cosmological dynamics, shift symmetry, and the tadpole"
