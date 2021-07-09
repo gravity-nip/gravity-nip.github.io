@@ -1,6 +1,6 @@
 - name: "<a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo De Leon </a>"
   photo: deleon_id.jpg
-  duration: MS Physics (2021), BS Physics (2019) 
+  duration: MS Physics (2021) <br> BS Physics <i>summa cum laude</i> (2019) <br> Most Outstanding BS Student, Best Thesis
   info: "New York University, MacCracken PhD fellow in Physics (soft matter physics)"
   email: 
   number_educ: 2
@@ -11,7 +11,7 @@
 
 - name: "<a href='https://lizbethjoytan.wixsite.com/lizbethtan/'> Lizbeth Tan </a>"
   photo: tan_id_small_2.jpg
-  duration: BS Physics (2020) 
+  duration: BS Physics <i>cum laude</i> (2020) 
   info: "University of Maryland Baltimore County, PhD student in Physics (high energy astrophysics)"
   email: 
   number_educ: 1
@@ -22,7 +22,7 @@
 
 - name: "<a href='https://www.joshuabautista.com/'> Joshua Bautista </a>"
   photo: joshua_id.jpg
-  duration: MS Physics (2021), BS Physics (2019) 
+  duration: MS Physics (2021) 
   info: "University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)"
   email: 
   number_educ: 2
@@ -33,7 +33,7 @@
 
 - name: "<a href='https://gsalkuino.github.io/'> Gabriel Alkuino </a>"
   photo: alkuino_id.jpg
-  duration: MS Physics (2021), BS Physics (2019) 
+  duration: MS Physics (2021) <br> BS Physics  <i>cum laude</i> (2019) 
   info: "Syracuse University, Harry Levinstein PhD fellow in Physics (soft matter physics)"
   email: 
   number_educ: 2
@@ -55,7 +55,7 @@
 
 - name: "<a href='https://www.markugalino.com/'> Mark Ugalino </a>"
   photo: ugalino_id.jpg
-  duration: MS Physics (2020), BS Physics (2018) 
+  duration: MS Physics (2020) <br> BS Physics (2018) 
   info: "University of Massachusetts Dartmouth, PhD student in Engineering and Applied Science  (computational astrophysics and scientific computing)"
   email: 
   number_educ: 1
