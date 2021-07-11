@@ -1,4 +1,4 @@
-I"W@<h1 id="the-team">The Team</h1>
+I"û?<h1 id="the-team">The Team</h1>
 
 <div class="row">
 
@@ -378,25 +378,6 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/salazar_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Jaythan Salazar</h4>
-    <p><i>Joined group in August 2019<br />email: &lt;jsalazar@nip (dot) upd.edu.ph&gt;</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/mercado_id_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Joaquin Mercado</h4>
     <p><i>Joined group in January 2020<br />email: &lt;jmercado@nip (dot) upd.edu.ph&gt;</i></p>
@@ -414,10 +395,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/bait-it_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -438,6 +415,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/dy_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Gedrich Dy</h4>
@@ -456,10 +437,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/gurrea_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -480,6 +457,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/oidem_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>John Rommel (JR) Oidem</h4>
@@ -498,10 +479,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/ona_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -522,6 +499,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/panganiban_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Ronald Panganiban</h4>
@@ -540,10 +521,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/yulo_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -663,9 +640,9 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/urzo_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>Clark Urzo</h4>
-  BS Physics (2020) <br> <i> After Gravity: machine learning specialist,  Active Theory Inc. (San Francisco)</i>
+  <img src="http://localhost:4000/images/teampic/salazar_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Jaythan Salazar</h4>
+  BS Physics (2021) <br> <i> After Gravity: undecided</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -679,6 +656,29 @@
 
 
 
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/urzo_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Clark Urzo</h4>
+  BS Physics (2020) <br> <i> After Gravity: machine learning specialist,  Active Theory Inc. (San Francisco)</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="row">
 
 
 <div class="col-sm-6 clearfix">
@@ -693,15 +693,11 @@
 
 
 
-</div>
 
 
 
 
 
-
-
-<div class="row">
 
 
 <div class="col-sm-6 clearfix">
@@ -716,11 +712,15 @@
 
 
 
+</div>
 
 
 
 
 
+
+
+<div class="row">
 
 
 <div class="col-sm-6 clearfix">
@@ -735,15 +735,11 @@
 
 
 
-</div>
 
 
 
 
 
-
-
-<div class="row">
 
 
 <div class="col-sm-6 clearfix">
@@ -758,11 +754,15 @@
 
 
 
+</div>
 
 
 
 
 
+
+
+<div class="row">
 
 
 <div class="col-sm-6 clearfix">
@@ -777,15 +777,11 @@
 
 
 
-</div>
 
 
 
 
 
-
-
-<div class="row">
 
 
 <div class="col-sm-6 clearfix">
@@ -800,12 +796,12 @@
 
 
 
-
-
-
-
-
 </div>
+
+
+
+
+
 
 -->
 
