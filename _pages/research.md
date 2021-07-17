@@ -40,15 +40,6 @@ Over Solar System scales, GR presents itself as a tiny correction to Newtonian g
 
 Differential geometry is the grammar of modern gravity. In learning this intricate calculus, we develop a strong affinity for physics problems where our geometric tools are useful. We continue to explore problems in domains that aren't gravitational, but nevertheless share common geometric descriptions. For instance, geometric thermodynamics, gauge/geometric mechanics, information geometry in data analysis, manifold learning and nonlinear dimensionality reduction --- there are some of the areas in which we are actively engaged. As gravitational interactions are naturally nonlinear, we also borrow heavily from the fields of chaos and nonlinear dynamics, and employ their methods to gravitationally interacting systems. We have applied these techniques to gain useful insights on the structure of the phase spaces of spinning bodies and charged particles in curved spacetime.  
 
-#### Our research philosophy
-
-Chandra's lifelong _quest for perspectives_ is the core inspiration of our intellectual adventures. We summarize this with two quotes (emphases ours):
-
-> After the early preparatory years, my scientific work has followed a certain pattern motivated, principally, by <b> a quest after perspectives</b>. In practise, this quest has consisted in my choosing (after some trials and tribulations) a certain area which appears amenable to cultivation and compatible with my taste, abilities, and temperament. And when after some years of study, I feel that I have accumulated a sufficient body of knowledge and achieved a view of my own, I have the urge to present <b> my point of view</b>, ab initio, in a coherent account with order, form, and structure. -- S. Chandrasekhar (1983 Nobel Prize Autobiography)
-
-> The pursuit of science has often been compared to the scaling of mountains, high and not so high. But who amongst us can hope, even in imagination, to scale the Everest and reach its summit when the sky is blue and the air is still, and in the stillness of the air survey the entire Himalayan range in the dazzling white of the snow stretching to infinity? None of us can hope for a comparable vision of nature and of the universe around us. <b> But there is nothing mean or lowly in standing in the valley below and awaiting the sun to rise over Kinchinjunga</b>. -- S. Chandrasekhar (1990), Truth and Beauty: Aesthetic and the Motivations of Science.
-
-Though our efforts are always driven by curiosity and fun, our ultimate goal is to build our own coherent pictures of this wonderful Universe. 
 <br>
 <br>
 <br>
