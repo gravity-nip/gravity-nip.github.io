@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the [National Institute of Physics](http://www.nip.upd.edu.ph), [University of the Philippines, Diliman](http://www.upd.edu.ph). Founded in 2016, our overarching goal is to better understand gravity in all its facets, from Solar System scales to the vast reaches of the cosmos. We puzzle over questions in relativistic astrophysics, black hole physics, celestial dynamics, theoretical cosmology, and gravitational wave science. <!-- Anchored on core scientific values of <i>honesty</i>, <i>integrity</i>, <i> free expression</i>, <i>cooperation</i>, <i>curiosity</i> and <i>hard work</i>,--> Through these efforts, we hope to slowly build a strong home for gravity and astrophysics research in this beautiful part of the world. 
+We are a research group in the [National Institute of Physics](http://www.nip.upd.edu.ph), [University of the Philippines, Diliman](http://www.upd.edu.ph). Founded in 2016, our overarching goal is to better understand gravity in all its facets, from Solar System scales to the vast reaches of the cosmos. We puzzle over questions in relativistic astrophysics, black hole physics, celestial dynamics, theoretical cosmology, and gravitational wave science. <!-- Anchored on core scientific values of <i>honesty</i>, <i>integrity</i>, <i> free expression</i>, <i>cooperation</i>, <i>curiosity</i> and <i>hard work</i>,--> Through these efforts, we aim to build a strong foundation for gravity and astrophysics research in this beautiful part of the world. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
