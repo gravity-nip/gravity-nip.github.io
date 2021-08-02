@@ -10,7 +10,7 @@ permalink: /research/
 
 <b> Theoretical physics. Astrophysics. Geometry.</b> These three pillars of our research are connected by our modern theory of gravity: Einstein's general relativity.
 
-Our group's broad goal is to explore and better understand <b> gravity </b> in all its facets. Enduring as objects of our excitement and fascination are the interconnected topics described below. 
+Our group's broad goal is to explore and better understand <b> gravity </b> in all its facets. We describe below the interconnected topics that endure as objects of our excitement and fascination. 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 5px; padding-left: 20px"}
 
