@@ -18,16 +18,6 @@
   highlight: 0
   news2:
 
-- title: "Gravitational wave signatures from dark sector interactions"
-  image: 
-  description:
-  authors: R Bernardo
-  link:
-    url: https://arxiv.org/abs/2103.02311
-    display:  arXiv:2103.02311
-  highlight: 0
-  news2:
-
 - title: "Bernstein spectral method for quasinormal modes and other eigenvalue problems"
   image: 
   description:
@@ -35,6 +25,16 @@
   link:
     url: https://arxiv.org/abs/2003.06232
     display:  arXiv:2003.06232
+  highlight: 0
+  news2:
+
+- title: "Gravitational wave signatures from dark sector interactions"
+  image: 
+  description:
+  authors: R Bernardo
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070
+    display:  Physical Review D 104, 024070 (2021)
   highlight: 0
   news2:
 
