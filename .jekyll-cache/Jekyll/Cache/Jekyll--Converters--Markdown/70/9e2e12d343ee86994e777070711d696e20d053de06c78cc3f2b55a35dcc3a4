@@ -1,4 +1,4 @@
-I"Ë<h1 id="gravity-alumni">Gravity Alumni</h1>
+I"ª!<h1 id="gravity-alumni">Gravity Alumni</h1>
 
 <p>We are proud of our alumni who now meaningfully contribute to different sectors of society all around the world.</p>
 
@@ -7,9 +7,9 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/deleon_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4><a href="https://krlodeleon.wixsite.com/karlodeleon"> Karlo De Leon </a></h4>
-    <p>MS Physics (2021) <br /> BS Physics <i>summa cum laude</i> (2019) <br /> Most Outstanding BS Student, Best Thesis <br />  <i>After Gravity</i>: New York University, MacCracken PhD fellow in Physics (soft matter physics)</p>
+    <p><img src="http://localhost:4000/images/teampic/reggie_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://reggiebernardo.weebly.com/"> Reggie Bernardo </a></h4>
+    <p>PhD Physics (2020) <br /> CS Most Outstanding PhD Student <br /> E. Gomez Award for Outstanding Ph.D. Graduate <br />  <i>After Gravity</i>: Institute of Physics, Academia Sinica; Postdoctoral Fellow</p>
     <ul style="overflow: hidden">
 
   </ul>
@@ -29,9 +29,31 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/celestial_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://johncelestial.wixsite.com/johncelestial"> John Celestial </a></h4>
+    <p>MS Physics (2021) <br /> BS Physics <i>magna cum laude</i> (2020) <br />  <i>After Gravity</i>: University of California, Santa Barbara, PhD student in Physics (gravitational physics)</p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/deleon_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://krlodeleon.wixsite.com/karlodeleon"> Karlo De Leon </a></h4>
+    <p>MS Physics (2021) <br /> BS Physics <i>summa cum laude</i> (2019) <br /> Most Outstanding BS Student, Best Thesis <br />  <i>After Gravity</i>: New York University, MacCracken PhD fellow in Physics (soft matter physics)</p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/joshua_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="https://www.joshuabautista.com/"> Joshua Bautista </a></h4>
-    <p>MS Physics (2021) <br />  <i>After Gravity</i>: University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)</p>
+    <p>MS Physics (2021)  <br /> NIP Most Outstanding MS Student <br />  <i>After Gravity</i>: University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)</p>
     <ul style="overflow: hidden">
 
   </ul>
@@ -41,6 +63,28 @@
     <p><img src="http://localhost:4000/images/teampic/alkuino_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="https://gsalkuino.github.io/"> Gabriel Alkuino </a></h4>
     <p>MS Physics (2021) <br /> BS Physics  <i>cum laude</i> (2019) <br />  <i>After Gravity</i>: Syracuse University, Harry Levinstein PhD fellow in Physics (soft matter physics)</p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/baybay_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Adrian Baybay</h4>
+    <p>MS Physics (2021) <br /> BS Physics (2019) <br />  <i>After Gravity</i>:</p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/alhambra_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Melissa Alhambra</h4>
+    <p>BS Physics (2021) <br />  <i>After Gravity</i>: undecided</p>
     <ul style="overflow: hidden">
 
   </ul>

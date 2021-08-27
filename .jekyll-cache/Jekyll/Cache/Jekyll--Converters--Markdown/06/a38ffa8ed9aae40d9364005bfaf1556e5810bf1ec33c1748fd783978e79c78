@@ -1,4 +1,4 @@
-I"þ*<h1 id="publications">Publications</h1>
+I"C,<h1 id="publications">Publications</h1>
 
 <h2 id="representative-papers">Representative papers</h2>
 
@@ -10,9 +10,9 @@
     <div class="well">
       <pubtit>Chaotic exits from a weakly magnetized Schwarzschild black hole</pubtit>
       <p><img src="http://localhost:4000/images/pubpic/joshua_basin.jpg" class="img-responsive" width="33%" style="float: left" /></p>
-      <p>We discover the Wada property and study the basin entropy of the nonlinear dynamics of charged particle motion in magnetized black holes.</p>
+      <p>We discover the Wada property in the nonlinear dynamics of charged particle motion in magnetized black holes and study the basin entropy.</p>
       <p><em>J Bautista, I Vega</em></p>
-      <p><strong><a href="https://iopscience.iop.org/article/10.1088/1361-6382/ac0e19">Classical and Quantum Gravity (2021)</a></strong></p>
+      <p><strong><a href="https://iopscience.iop.org/article/10.1088/1361-6382/ac0e19">Classical and Quantum Gravity (2021) 38 155016</a></strong></p>
       <p class="text-danger"><strong> </strong></p>
       <p> </p>
     </div>
@@ -92,6 +92,10 @@
 
 <h2 id="full-list">Full List</h2>
 
+<p>Well-Tempered Teleparallel Horndeski Cosmology: A Teleparallel Variation to the Cosmological Constant Problem <br />
+  <em>RC Bernardo, JL Said, M Caruana, S Appleby </em><br />
+  <a href="https://arxiv.org/abs/2107.08762">arXiv:2107.08762</a></p>
+
 <p>Towards a model-independent reconstruction approach for late-time Hubble data <br />
   <em>R Bernardo, JL Said </em><br />
   <a href="https://arxiv.org/abs/2106.08688">arXiv:2106.08688</a></p>
@@ -100,17 +104,17 @@
   <em>R Bernardo, JL Said </em><br />
   <a href="https://arxiv.org/abs/2105.12970">arXiv:2105.12970</a></p>
 
-<p>Gravitational wave signatures from dark sector interactions <br />
-  <em>R Bernardo </em><br />
-  <a href="https://arxiv.org/abs/2103.02311">arXiv:2103.02311</a></p>
-
 <p>Bernstein spectral method for quasinormal modes and other eigenvalue problems <br />
   <em>S Fortuna, I Vega </em><br />
   <a href="https://arxiv.org/abs/2003.06232">arXiv:2003.06232</a></p>
 
+<p>Gravitational wave signatures from dark sector interactions <br />
+  <em>R Bernardo </em><br />
+  <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070">Physical Review D 104, 024070 (2021)</a></p>
+
 <p>Chaotic exits from a weakly magnetized Schwarzschild black hole <br />
   <em>J Bautista, I Vega </em><br />
-  <a href="https://iopscience.iop.org/article/10.1088/1361-6382/ac0e19">Classical and Quantum Gravity (2021)</a></p>
+  <a href="https://iopscience.iop.org/article/10.1088/1361-6382/ac0e19">Classical and Quantum Gravity (2021) 38 155016</a></p>
 
 <p>Stealth black hole perturbations in kinetic gravity braiding <br />
   <em>R Bernardo, I Vega </em><br />

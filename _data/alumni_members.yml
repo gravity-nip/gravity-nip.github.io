@@ -1,11 +1,11 @@
-- name: "<a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo De Leon </a>"
-  photo: deleon_id.jpg
-  duration: MS Physics (2021) <br> BS Physics <i>summa cum laude</i> (2019) <br> Most Outstanding BS Student, Best Thesis
-  info: "New York University, MacCracken PhD fellow in Physics (soft matter physics)"
+- name: "<a href='https://reggiebernardo.weebly.com/'> Reggie Bernardo </a>"
+  photo: reggie_id.jpg
+  duration: PhD Physics (2020) <br> CS Most Outstanding PhD Student <br> E. Gomez Award for Outstanding Ph.D. Graduate
+  info: "Institute of Physics, Academia Sinica; Postdoctoral Fellow"
   email: 
   number_educ: 2
-  education1: MS Physics, UP Diliman (2021)
-  education2: BS Physics, UP Diliman (2019)
+  education1: 
+  education2: 
   education3:
   education4:
 
@@ -17,6 +17,28 @@
   number_educ: 1
   education1: BS Physics, UP Diliman (2020)
   education2:
+  education3:
+  education4:
+
+- name: "<a href='https://johncelestial.wixsite.com/johncelestial'> John Celestial </a>"
+  photo: celestial_id.jpg
+  duration: MS Physics (2021) <br> BS Physics <i>magna cum laude</i> (2020) 
+  info: "University of California, Santa Barbara, PhD student in Physics (gravitational physics)"
+  email: 
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2020)
+  education2:
+  education3:
+  education4:
+
+- name: "<a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo De Leon </a>"
+  photo: deleon_id.jpg
+  duration: MS Physics (2021) <br> BS Physics <i>summa cum laude</i> (2019) <br> Most Outstanding BS Student, Best Thesis
+  info: "New York University, MacCracken PhD fellow in Physics (soft matter physics)"
+  email: 
+  number_educ: 2
+  education1: MS Physics, UP Diliman (2021)
+  education2: BS Physics, UP Diliman (2019)
   education3:
   education4:
 
@@ -39,6 +61,28 @@
   number_educ: 2
   education1: MS Physics, UP Diliman (2021)
   education2: BS Physics, UP Diliman (2019)
+  education3:
+  education4:
+
+- name: Adrian Baybay
+  photo: baybay_id.jpg
+  duration: MS Physics (2021) <br> BS Physics (2019) 
+  info: 
+  email: 
+  number_educ: 2
+  education1: MS Physics, UP Diliman (2021)
+  education2: BS Physics, UP Diliman (2019)
+  education3:
+  education4:
+
+- name: Melissa Alhambra
+  photo: alhambra_id.jpg
+  duration: BS Physics (2021) 
+  info: undecided 
+  email: 
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2021)
+  education2: 
   education3:
   education4:
 

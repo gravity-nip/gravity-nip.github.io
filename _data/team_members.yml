@@ -8,15 +8,6 @@
   education3: PhD Physics, University of Florida (2009)
   education4: BS Physics, Ateneo de Manila (2001)
 
-- name: "<a href='https://reggiebernardo.weebly.com/'> Reggie Bernardo </a>"
-  photo: reggie_id.jpg
-  info: Assistant Professor
-  email: rbernardo@nip (dot) upd.edu.ph
-  number_educ: 3
-  education1: PhD Physics, UP Diliman (2020)
-  education2: MS Physics, UP Diliman (2017)
-  education3: BS Physics, UP Diliman (2015)
- 
 - name: Adrian Villanueva
   photo: adrian_id.jpg
   info: PhD student
@@ -62,26 +53,6 @@
   photo: perez_id.jpg
   info: MS student
   email: mperez@nip (dot) upd.edu.ph
-  number_educ: 1
-  education1: BS Physics, UP Diliman (2019)
-  education2:
-  education3:
-  education4:
-
-- name: Adrian Baybay
-  photo: baybay_id.jpg
-  info: MS student
-  email: jbaybay@nip (dot) upd.edu.ph
-  number_educ: 1
-  education1: BS Physics, UP Diliman (2019)
-  education2:
-  education3:
-  education4:
-
-- name: John Celestial
-  photo: celestial_id.jpg
-  info: MS student
-  email: jcelestial@nip (dot) upd.edu.ph
   number_educ: 1
   education1: BS Physics, UP Diliman (2019)
   education2:

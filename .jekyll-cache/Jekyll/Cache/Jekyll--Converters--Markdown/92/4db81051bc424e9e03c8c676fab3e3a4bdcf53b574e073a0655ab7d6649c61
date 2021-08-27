@@ -1,4 +1,4 @@
-I"û?<h1 id="the-team">The Team</h1>
+I"½F<h1 id="the-team">The Team</h1>
 
 <div class="row">
 
@@ -331,6 +331,31 @@
 
 </div>
 
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/cj_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>C.J. Palpal-latoc</h4>
+    <p><i>MS student<br />email: &lt;cbpalpallatoc@up (dot) edu.ph&gt;</i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> BS Physics, UP Diliman (2021) </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
 <h2 id="bs-students">BS students</h2>
 
 <div class="row">
@@ -355,9 +380,9 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/cj_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>C.J. Palpal-latoc</h4>
-    <p><i>Joined group in August 2019<br />email: &lt;cpalpallatoc@nip (dot) upd.edu.ph&gt;</i></p>
+    <p><img src="http://localhost:4000/images/teampic/mercado_id_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Joaquin Mercado</h4>
+    <p><i>Joined group in January 2020<br />email: &lt;jmercado@nip (dot) upd.edu.ph&gt;</i></p>
     <ul style="overflow: hidden">
 
   
@@ -376,25 +401,6 @@
 </div>
 
 <div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/mercado_id_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Joaquin Mercado</h4>
-    <p><i>Joined group in January 2020<br />email: &lt;jmercado@nip (dot) upd.edu.ph&gt;</i></p>
-    <ul style="overflow: hidden">
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  </ul>
-  </div>
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/bait-it_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -415,10 +421,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/dy_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Gedrich Dy</h4>
@@ -437,6 +439,10 @@
 
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/gurrea_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -457,10 +463,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/oidem_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>John Rommel (JR) Oidem</h4>
@@ -479,6 +481,10 @@
 
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/ona_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -499,10 +505,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/panganiban_id.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Ronald Panganiban</h4>
@@ -521,6 +523,10 @@
 
   </ul>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/yulo_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -556,9 +562,9 @@
 
 
 <div class="col-sm-6 clearfix">
-  <img src="http://localhost:4000/images/teampic/deleon_id.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo De Leon </a></h4>
-  MS Physics (2021) <br> BS Physics <i>summa cum laude</i> (2019) <br> Most Outstanding BS Student, Best Thesis <br> <i> After Gravity: New York University, MacCracken PhD fellow in Physics (soft matter physics)</i>
+  <img src="http://localhost:4000/images/teampic/reggie_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://reggiebernardo.weebly.com/'> Reggie Bernardo </a></h4>
+  PhD Physics (2020) <br> CS Most Outstanding PhD Student <br> E. Gomez Award for Outstanding Ph.D. Graduate <br> <i> After Gravity: Institute of Physics, Academia Sinica; Postdoctoral Fellow</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -575,9 +581,93 @@
 
 
 <div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/baybay_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Adrian Baybay</h4>
+  MS Physics (2021) <br> BS Physics (2019) <br> <i> After Gravity: </i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
   <img src="http://localhost:4000/images/teampic/tan_id_small_2.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4><a href='https://lizbethjoytan.wixsite.com/lizbethtan/'> Lizbeth Tan </a></h4>
   BS Physics <i>cum laude</i> (2020) <br> <i> After Gravity: University of Maryland Baltimore County, PhD student in Physics (high energy astrophysics)</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/alhambra_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Melissa Alhambra</h4>
+  BS Physics (2021) <br> <i> After Gravity: undecided</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/celestial_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://johncelestial.wixsite.com/johncelestial'> John Celestial </a></h4>
+  MS Physics (2021) <br> BS Physics <i>magna cum laude</i> (2020) <br> <i> After Gravity: University of California, Santa Barbara, PhD student in Physics (gravitational physics)</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4000/images/teampic/deleon_id.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href='https://krlodeleon.wixsite.com/karlodeleon'> Karlo De Leon </a></h4>
+  MS Physics (2021) <br> BS Physics <i>summa cum laude</i> (2019) <br> Most Outstanding BS Student, Best Thesis <br> <i> After Gravity: New York University, MacCracken PhD fellow in Physics (soft matter physics)</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -600,7 +690,7 @@
 <div class="col-sm-6 clearfix">
   <img src="http://localhost:4000/images/teampic/joshua_id.jpg" class="img-responsive" width="25%" style="float: left" />
   <h4><a href='https://www.joshuabautista.com/'> Joshua Bautista </a></h4>
-  MS Physics (2021) <br> <i> After Gravity: University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)</i>
+  MS Physics (2021)  <br> NIP Most Outstanding MS Student <br> <i> After Gravity: University of Virginia, PhD student in Physics (theoretical astrophysics, gravity)</i>
   <ul style="overflow: hidden">
 
   </ul>

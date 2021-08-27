@@ -1,55 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>NIP Gravity Group -- Alumni</title>
-  <meta name="description" content="NIP Gravity Alumni">
-  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/alumni/">
-<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="http://localhost:4000/"> Gravity @ NIP  </a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li><a href="http://localhost:4000/team">Team</a></li>
-		<li><a href="http://localhost:4000/alumni">Alumni</a></li>
-		<!--<li><a href="http://localhost:4000/vacancies">Vacancies</a></li>-->
-		<li><a href="http://localhost:4000/publications">Publications</a></li>
-		<li><a href="http://localhost:4000/research">Research</a></li>
-		<li><a href="http://localhost:4000/training">Training</a></li>
-		<li><a href="http://localhost:4000/pictures">(Pics)</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="gridid" class="col-sm-12">
-  <h1 id="gravity-alumni">Gravity Alumni</h1>
+I"¤!<h1 id="gravity-alumni">Gravity Alumni</h1>
 
 <p>We are proud of our alumni who now meaningfully contribute to different sectors of society all around the world.</p>
 
@@ -67,9 +16,31 @@
   </div>
 
   <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/baybay_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Adrian Baybay</h4>
+    <p>MS Physics (2021) <br /> BS Physics (2019) <br />  <i>After Gravity</i>:</p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/tan_id_small_2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="https://lizbethjoytan.wixsite.com/lizbethtan/"> Lizbeth Tan </a></h4>
     <p>BS Physics <i>cum laude</i> (2020) <br />  <i>After Gravity</i>: University of Maryland Baltimore County, PhD student in Physics (high energy astrophysics)</p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/alhambra_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Melissa Alhambra</h4>
+    <p>BS Physics (2021) <br />  <i>After Gravity</i>: undecided</p>
     <ul style="overflow: hidden">
 
   </ul>
@@ -82,7 +53,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/celestial_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="https://johncelestial.wixsite.com/johncelestial"> John Celestial </a></h4>
-    <p>MS Physics (2021) <br /> BS Physics <i>magna cum laude</i> (2020) <br />  <i>After Gravity</i>: University of California, Santa Barbara, PhD student in Physics (gravitational physics)</p>
+    <p>MS Physics (2021) <br /> BS Physics <i>cum laude</i> (2020) <br />  <i>After Gravity</i>: University of California, Santa Barbara, PhD student in Physics (gravitational physics)</p>
     <ul style="overflow: hidden">
 
   </ul>
@@ -114,28 +85,6 @@
     <p><img src="http://localhost:4000/images/teampic/alkuino_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="https://gsalkuino.github.io/"> Gabriel Alkuino </a></h4>
     <p>MS Physics (2021) <br /> BS Physics  <i>cum laude</i> (2019) <br />  <i>After Gravity</i>: Syracuse University, Harry Levinstein PhD fellow in Physics (soft matter physics)</p>
-    <ul style="overflow: hidden">
-
-  </ul>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/baybay_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Adrian Baybay</h4>
-    <p>MS Physics (2021) <br /> BS Physics (2019) <br />  <i>After Gravity</i>:</p>
-    <ul style="overflow: hidden">
-
-  </ul>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/alhambra_id.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Melissa Alhambra</h4>
-    <p>BS Physics (2021) <br />  <i>After Gravity</i>: undecided</p>
     <ul style="overflow: hidden">
 
   </ul>
@@ -304,48 +253,4 @@ Amber Vervloet, Spring 2019
 
 </div>
 -->
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p> Site made with <a href="https://jekyllrb.com">Jekyll</a>, following a template made available by the <a href="http://localhost:4000/aboutwebsite.html">Allan Lab</a>.</p>
-              <p>We are part of the <a href="http://nip.upd.edu.ph/">National Institute of Physics</a> at the <a href="https://upd.edu.ph/">University of the Philippines Diliman</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - Balik-PhD Grant from OVPAA, UP System <br />
-		  - Outright Research Grant, OVCRD, UP Diliman
-          - NAST-OYS Grant, NAST DOST
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  NIP Building, UP Diliman<br />
-		  Diliman, Quezon City<br />
-		  Philippines <br />
-            (<a href="https://www.google.com/maps/place/UP+National+Institute+Of+Physics/@14.6487957,121.0729283,19z/data=!4m19!1m13!4m12!1m3!2m2!1d121.0730678!2d14.6488009!1m6!1m2!1s0x3397b77b52dcab39:0x8aba1dba9a49dea2!2sUP+National+Institute+Of+Physics,+UP+National+Institute+Of+Physics,+C.P.+Garcia+Avenue,+Quezon+City,+1101+Metro+Manila!2m2!1d121.073057!2d14.648832!3e0!3m4!1s0x3397b77b52dcab39:0x8aba1dba9a49dea2!8m2!3d14.648832!4d121.073057">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
