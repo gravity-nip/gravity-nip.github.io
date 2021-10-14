@@ -8,7 +8,7 @@ permalink: /alumni/
 
 # Gravity Alumni 
 
-We are proud of our alumni who are thriving and meaningfully contributing to different sectors of society all around the world. 
+We are proud of our alumni who thrive and meaningfully contribute to different sectors of society all around the world. 
 
 Please visit our [<i>Student Training</i>](https://gravity-nip.github.io/training/) page to check out the activities we conduct to help foster critical thinking and develop strong problem solving skills in all our members.
 
