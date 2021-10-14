@@ -16,4 +16,4 @@ The group holds a weekly <b> Monday Journal Club</b> to keep us up-to-date on th
 
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_early_state.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 1px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_action_shot.jpg){: style="width: 337px; float: left; border: 5px; padding-right: 1px"}
-![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_action_shot2.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 1px"}
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_action_shot2.jpg){: style="width: 340px; float: left; border: 5px; padding-right: 1px"}
