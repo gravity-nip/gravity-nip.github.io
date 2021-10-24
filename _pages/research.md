@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-<b> Theoretical physics. Astrophysics. Geometry.</b> These are all fields tied to Einstein's general relativity, our modern theory of gravity.
+<b> Theoretical physics. Astrophysics. Geometry.</b> All intertwined by Einstein's general relativity, our modern theory of gravity.
 
 Our group's broad goal is to explore and better understand <b> gravity </b> in all its facets. We describe below the questions and ideas that endure as objects of our excitement and fascination. 
 
