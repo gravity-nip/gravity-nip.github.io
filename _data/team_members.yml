@@ -39,15 +39,15 @@
   education1: MS Physics, UP Diliman (2019)
   education2: BS Physics, Polytechnic Univ of the Phils (2016)
 
-# - name: Jhon Delo Procurato
-#   photo: procurato_id_new.jpg
-#   info: PhD student
-#   email: jprocurato@nip (dot) upd.edu.ph
-#   number_educ: 2
-#   education1: MS Physics, UP Diliman (2020)
-#   education2: BS Physics, Central Mindanao Univ (2017)
-#   education3:
-#   education4:
+- name: Jhon Delo Procurato
+  photo: procurato_id_new.jpg
+  info: PhD student
+  email: jprocurato@nip (dot) upd.edu.ph
+  number_educ: 2
+  education1: MS Physics, UP Diliman (2020)
+  education2: BS Physics, Central Mindanao Univ (2017)
+  education3:
+  education4:
   
 - name: Marc Perez
   photo: perez_id.jpg
