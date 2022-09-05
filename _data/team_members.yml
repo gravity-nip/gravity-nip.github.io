@@ -108,3 +108,23 @@
   education2:
   education3:
   education4:  
+
+- name: Joaquin Mercado
+  photo: mercado_id_2.jpg
+  info: MS student
+  email: jmercado@nip (dot) upd.edu.ph
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2022)
+  education2:
+  education3:
+  education4:
+
+- name: John Rommel (JR) Oidem
+  photo: oidem_id.jpeg
+  info: MS student
+  email: jvoidem@up (dot) edu.ph
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2022)
+  education2:
+  education3:
+  education4:
