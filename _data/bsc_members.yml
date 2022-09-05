@@ -1,10 +1,10 @@
-- name: Joaquin Mercado
-  photo: mercado_id_2.jpg
-  info:  Joined group in January 2020
-  email: jmercado@nip (dot) upd.edu.ph
-  number_educ: 0
-  education1: 
-  education2: 
+# - name: Joaquin Mercado
+#   photo: mercado_id_2.jpg
+#   info:  Joined group in January 2020
+#   email: jmercado@nip (dot) upd.edu.ph
+#   number_educ: 0
+#   education1:
+#   education2:
 
 - name: Abigail Bait-it
   photo: bait-it_id.jpeg
@@ -30,13 +30,13 @@
   education1: 
   education2:
 
-- name: John Rommel (JR) Oidem
-  photo: oidem_id.jpeg
-  info:  Joined group in January 2021
-  email: jvoidem@up (dot) edu.ph
-  number_educ: 0
-  education1: 
-  education2:
+# - name: John Rommel (JR) Oidem
+#   photo: oidem_id.jpeg
+#   info:  Joined group in January 2021
+#   email: jvoidem@up (dot) edu.ph
+#   number_educ: 0
+#   education1:
+#   education2:
 
 - name: Cedric Oña
   photo: ona_id.jpg
@@ -46,18 +46,50 @@
   education1: 
   education2:
 
-- name: Ronald Panganiban
-  photo: panganiban_id.jpeg
-  info:  Joined group in January 2021
-  email: ronald.panganiban.jr12@gmail (dot) com
+# - name: Ronald Panganiban
+#   photo: panganiban_id.jpeg
+#   info:  Joined group in January 2021
+#   email: ronald.panganiban.jr12@gmail (dot) com
+#   number_educ: 0
+#   education1:
+#   education2:
+
+# - name: Miguel Yulo
+#   photo: yulo_id.jpg
+#   info:  Joined group in January 2021
+#   email: miguelyulo7@gmail (dot) com
+#   number_educ: 0
+#   education1:
+#   education2:
+
+- name: Lyle Geraldez
+  photo: rock.jpg
+  info:  Joined group in September 2021
+  email: lmgeraldez@up (dot) edu (dot) ph
   number_educ: 0
   education1: 
   education2:
 
-- name: Miguel Yulo
-  photo: yulo_id.jpg
-  info:  Joined group in January 2021
-  email: miguelyulo7@gmail (dot) com
+- name: Adam Mendoza
+  photo: rock.jpg
+  info:  Joined group in September 2021
+  email: gdmendoza1@up (dot) edu (dot) ph
   number_educ: 0
   education1: 
-  education2: 
+  education2:
+
+- name: Juan Rodrigo
+  photo: rock.jpg
+  info:  Joined group in September 2021
+  email: jnrodrigo@up (dot) edu (dot) ph
+  number_educ: 0
+  education1: 
+  education2:
+
+- name: Luis Villarin
+  photo: rock.jpg
+  info:  Joined group in September 2021
+  email: jgvillarin1@up (dot) edu (dot) ph
+  number_educ: 0
+  education1: 
+  education2:
