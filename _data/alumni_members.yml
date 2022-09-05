@@ -1,3 +1,36 @@
+- name: Janna May Angeles
+  photo: angeles_id_small_3.jpg
+  duration: BS Physics <i>cum laude</i> (2020) 
+  info: "Washington University at St. Louis, PhD student in Physics (cosmology)"
+  email: 
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2020)
+  education2:
+  education3:
+  education4:
+
+- name: Val Anthony Balagon
+  photo: balagon_id.jpeg
+  duration: MS Physics (2022) 
+  info: Data Science and Analytics Specialist, VXI Global Solutions 
+  email: 
+  number_educ: 1
+  education1: MS Physics, UP Diliman (2022)
+  education2:
+  education3:
+  education4:
+
+- name: Jesus Miguel Yulo
+  photo: yulo_id.jpg
+  duration: BS Physics <i>summa cum laude</i> (2019) <br> Best Thesis
+  info: gap year 
+  email: 
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2022)
+  education2:
+  education3:
+  education4:
+
 - name: "<a href='https://reggiebernardo.weebly.com/'> Reggie Bernardo </a>"
   photo: reggie_id.jpg
   duration: PhD Physics (2020) <br> CS Most Outstanding PhD Student <br> E. Gomez Award for Outstanding Ph.D. Graduate
@@ -67,7 +100,7 @@
 - name: Adrian Baybay
   photo: baybay_id.jpg
   duration: MS Physics (2021) <br> BS Physics (2019) 
-  info: gap year due to COVID
+  info: UP Diliman, PhD student in Theoretical Nuclear Physics
   email: 
   number_educ: 2
   education1: MS Physics, UP Diliman (2021)
