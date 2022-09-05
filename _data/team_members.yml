@@ -69,15 +69,15 @@
   education3:
   education4:
 
-- name: Janna Angeles 
-  photo: angeles_id_small_3.jpg
-  info: MS student
-  email: jangeles@nip (dot) upd.edu.ph
-  number_educ: 1
-  education1: BS Physics, UP Diliman (2020)
-  education2:
-  education3:
-  education4: 
+# - name: Janna Angeles
+#   photo: angeles_id_small_3.jpg
+#   info: MS student
+#   email: jangeles@nip (dot) upd.edu.ph
+#   number_educ: 1
+#   education1: BS Physics, UP Diliman (2020)
+#   education2:
+#   education3:
+#   education4:
 
 - name: Lemuel Saret  
   photo: saret_id_small.jpg
@@ -89,15 +89,15 @@
   education3:
   education4: 
 
-- name: Val Balagon
-  photo: balagon_id.jpeg
-  info: MS student
-  email: vvbalagon@up (dot) edu.ph
-  number_educ: 1
-  education1: BS Physics, Silliman University (2019)
-  education2:
-  education3:
-  education4:
+# - name: Val Balagon
+#   photo: balagon_id.jpeg
+#   info: MS student
+#   email: vvbalagon@up (dot) edu.ph
+#   number_educ: 1
+#   education1: BS Physics, Silliman University (2019)
+#   education2:
+#   education3:
+#   education4:
 
 - name: C.J. Palpal-latoc
   photo: cj_id.jpg
