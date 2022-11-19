@@ -15,9 +15,15 @@ permalink: /pictures/
 
 (Right-click *'view image'* to see a larger image.)
 
+First lunches with Gravity PhD students after the two-and-a-half year pandemic lockdown. (September 2022)
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/comp_PhD.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/PhDs_2022.jpg" width="60%" >
+</figure>
+
 Celebrating the year of Zoom. (May there be no more.) <br>
 Mark's remote US send-off and Clark's mock BS thesis defense. (4 January 2021)
-
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/zoom_4Jan2021.jpg" width="60%" >
