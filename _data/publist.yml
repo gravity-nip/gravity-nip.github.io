@@ -1,3 +1,23 @@
+- title: "Phase boundaries and the Widom line from the Ruppeiner geometry of fluids"
+  image: karlo_diosi.jpg
+  description: We discover a new (induced) metric from the Ruppeiner thermodynamic geometry to better construct phase boundaries and the Widom line of fluids.  
+  authors: K de Leon, I Vega
+  link:
+    url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054141
+    display: Physical Review E 106, 054141 (2022)
+  highlight: 1
+  news2:
+
+- title: "Electromagnetic quasinormal modes of Schwarzschild–anti–de Sitter black holes: Bifurcations, spectral similarity, and exact solutions in the large black hole limit"
+  image: sean_qnm.jpg
+  description: We discover and exploit a new asymptotic symmetry in the electromagnetic quasinormal mode spectrum of an asymptotically anti–de Sitter Schwarzschild black hole.
+  authors: S Fortuna, I Vega
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.084028
+    display: Physical  Review D 106, 084028 (2022)
+  highlight: 1
+  news2:
+
 - title: "Well-Tempered Teleparallel Horndeski Cosmology: A Teleparallel Variation to the Cosmological Constant Problem"
   image: 
   description:
