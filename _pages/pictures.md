@@ -15,7 +15,7 @@ permalink: /pictures/
 
 (Right-click *'view image'* to see a larger image.)
 
-First lunches with Gravity PhD students after the two-and-a-half year pandemic lockdown. (September 2022)
+First lunches with Gravity PhD students after the two-and-a-half-year pandemic lockdown. (September 2022)
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/comp_PhD.jpg" width="60%" >
