@@ -10,7 +10,7 @@ permalink: /research/
 
 <b> Theoretical physics, Astrophysics, Geometry----</b>all intertwined by Einstein's general relativity, our modern theory of gravity.
 
-Our group's broad goal is to explore and better understand <b> gravity </b> in all its facets. We describe below the questions and ideas that endure as objects of our excitement and fascination. 
+Our group's overarching goal is to explore and gain a deeper understanding of <b> gravity </b> in all its facets. Below, we describe below the questions and ideas that endure as objects of our excitement and fascination.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/rn_penrose_marc1.jpg){: style="width: 300px; float: right; border: 5px; padding-left: 20px"}
 
@@ -24,7 +24,7 @@ The recent detection of gravitational waves by LIGO has opened a new observation
 
 #### Alternative theories of gravity
 
-General relativity is our best gravity theory to date, and it continues to pass every empirical test exceedingly well. However, Einstein's theory becomes more vulnerable on opposing extreme distance scales: the very small, where the obstinate quantum is king, and the very large, where general relativity consorts with shady æther-like characters --- dark matter and dark energy. As a result, a plethora of alternative theories now vie to provide a more complete description of gravitational phenomena at all scales. Our group explores the rich phenomenology afforded by these non-Einsteinian theories. We ask, for instance, what sort of physical predictions become possible when gravity carries more than just its metric degrees of freedom, such as perhaps an extra scalar or vector. We want to know if (or which of) the competitors survive the battery of empirical evidence brought in by new astrophysical observations. These investigations occasionally teach us lessons about general relativity itself, by allowing us to contrast the latter from its purported usurpers. 
+General relativity is our best gravity theory to date, and it continues to pass every empirical test exceedingly well. However, Einstein's theory becomes more vulnerable on opposing extreme distance scales: the very small, where the obstinate quantum is king, and the very large, where general relativity mingles with mysterious entities like dark matter and dark energy. Consequently, a multitude of alternative theories now compete to provide a more comprehensive description of gravitational phenomena across all scales. Our group delves into the rich phenomenology offered by these non-Einsteinian theories. We inquire, for instance, about the physical predictions that become possible when gravity carries more than just its metric degrees of freedom, perhaps involving an extra scalar or vector field. We seek to determine which, if any, of these contenders can withstand the battery of empirical evidence brought forth by new astrophysical observations. In the process, these investigations occasionally shed light on our understanding of general relativity itself, allowing us to discern it from its purported challengers.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/orbits_marc2.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 20px"}
 
