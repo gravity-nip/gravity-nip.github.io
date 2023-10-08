@@ -15,3 +15,7 @@ The group holds a weekly <b> Monday Journal Club</b> to keep us up-to-date on th
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_action_shot3.jpg){: style="width: 300px; float: right; border: 5px; padding-left: 20px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_action_shot.jpg){: style="width: 337px; float: left; border: 5px; padding-right: 20px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/lab_early_state.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/Delo_Training1.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/Delo_Training2.jpg){: style="width: 300px; float: left; border: 5px; padding-right: 20px"}
+
+
