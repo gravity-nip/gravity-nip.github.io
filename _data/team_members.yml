@@ -129,3 +129,33 @@
   education2:
   education3:
   education4:
+
+- name: Cedric Oña
+  photo: ona_id.jpg
+  info: MS student
+  email: ocedricadriane@gmail (dot) com
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2023)
+  education2:
+  education3:
+  education4:
+
+- name: Abigail Bait-it
+  photo: bait-it_id.jpeg
+  info: MS student
+  email: acbaitit@up (dot) edu.ph
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2023)
+  education2:
+  education3:
+  education4:
+
+- name: Sigmund Fajardo
+  photo: fajardo_id.png
+  info: MS student
+  email: sigmundbreton1@gmail (dot) com
+  number_educ: 1
+  education1: BS Physics, Polytechnic Univ of the Phils (2016)
+  education2:
+  education3:
+  education4:
