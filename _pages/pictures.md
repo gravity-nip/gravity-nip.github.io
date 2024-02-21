@@ -21,6 +21,13 @@ Our first group photo in a while. (February 2024)
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gravity_2024.jpg" width="60%" >
 </figure>
 
+We love board games! (September 2023)
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/games.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/apprentices_game.jpg" width="60%" >
+</figure>
+
 First lunches with Gravity PhD students after the two-and-a-half-year pandemic lockdown. (September 2022)
 
 <figure>
