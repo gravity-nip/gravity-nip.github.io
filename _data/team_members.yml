@@ -155,7 +155,17 @@
   info: MS student
   email: sigmundbreton1@gmail (dot) com
   number_educ: 1
-  education1: BS Physics, Polytechnic Univ of the Phils (2016)
+  education1: BS Physics, Polytechnic Univ of the Phils (2019)
+  education2:
+  education3:
+  education4:
+
+- name: Luis Villarin
+  photo: villarin_id_small.jpg
+  info: MS student
+  email: jgvillarin1@up (dot) edu.ph
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2024)
   education2:
   education3:
   education4:
