@@ -15,7 +15,7 @@ permalink: /pictures/
 
 (Right-click *'view image'* to see a larger image.)
 
-Our first group photo in a while. (February 2024)
+The group in February 2024.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gravity_2024.jpg" width="60%" >
