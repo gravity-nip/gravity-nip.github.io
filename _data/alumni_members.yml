@@ -1,7 +1,7 @@
 - name: Jhon Delo Procurato
   photo: procurato_id_new.jpg
   duration: MS Physics (2020) 
-  info: "Jhon Delo passed away suddenly while he was a PhD student. He would have been the best among us."
+  info: "[Jhon Delo passed away suddenly while he was a PhD student. He would have been the best among us.]"
   email: 
   number_educ: 1
   education1: MS Physics, UP Diliman (2020)
@@ -9,9 +9,20 @@
   education3:
   education4:
 
+- name: Luke Gurrea
+  photo: gurrea_id.jpg
+  duration: BS Physics <i>cum laude</i> (2022) <br> Best BS Physics Thesis
+  info: "Data Quality and Governance Junior Manager, Emma The Sleep Company"
+  email: 
+  number_educ: 1
+  education1: BS Physics, UP Diliman (2022)
+  education2:
+  education3:
+  education4:
+
 - name: Janna May Angeles
   photo: angeles_id_small_3.jpg
-  duration: MS Physics (expected 2023) <br> BS Physics <i>cum laude</i> (2020) 
+  duration: BS Physics <i>cum laude</i> (2020) 
   info: "Washington University in St. Louis, PhD student in Physics (cosmology)"
   email: 
   number_educ: 1
