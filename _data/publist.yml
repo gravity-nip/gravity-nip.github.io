@@ -1,3 +1,23 @@
+- title: "Bernstein spectral method for quasinormal modes and other eigenvalue problems"
+  image:
+  description: 
+  authors: S Fortuna, I Vega
+  link:
+    url: https://link.springer.com/article/10.1140/epjc/s10052-023-12350-9
+    display: European Physical Journal C 83, 1170 (2023)
+  highlight: 
+  news2:
+
+- title: "Testing time-delayed cosmology"
+  image: 
+  description: We discover a new induced metric from the Ruppeiner thermodynamic geometry of fluids to better construct their phase boundaries and Widom line.  
+  authors: CJ Palpal-latoc, RC Bernardo, I Vega
+  link:
+    url: https://doi.org/10.1140/epjc/s10052-022-11126-x
+    display: European Physical Journal C 82, 1148 (2022)
+  highlight: 
+  news2:
+
 - title: "Phase boundaries and the Widom line from the Ruppeiner geometry of fluids"
   image: karlo_diosi.jpg
   description: We discover a new induced metric from the Ruppeiner thermodynamic geometry of fluids to better construct their phase boundaries and Widom line.  
