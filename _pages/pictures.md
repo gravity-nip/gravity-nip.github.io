@@ -25,7 +25,7 @@ Gravity and friends on our first post-pandemic outing. (December 2023)
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/batangas_group_2023.jpeg" width="60%" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/batangas_group_2023_2.jpeg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/batangas_group_2024_2.jpeg" width="60%" >
 </figure>
 
 We love board games! (September 2023)
