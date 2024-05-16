@@ -94,6 +94,14 @@
 #   education1:
 #   education2:
 
+- name: Alyssa Alisuag
+  photo: rock.jpg
+  info:  Joined group in August 2023
+  email: alalisuag@up (dot) edu.ph
+  number_educ: 0
+  education1: 
+  education2:
+
 - name: Carvi Jardaleza
   photo: jardaleza_id.jpg
   info:  Joined group in August 2023
